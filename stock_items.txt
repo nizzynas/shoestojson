@@ -1,932 +1,1086 @@
 {
   "NIKE": [
     {
-      "ProductName": "Nike Kwondo 1 \"G-Dragon Peaceminusone Triple White\"",
+      "name": "Nike Kwondo 1 \"G-Dragon Peaceminusone Triple White\"",
       "ProductSize": "6",
-      "StockxLink": "https://stockx.com/nike-kwondo-1-g-dragon-peaceminusone-triple-white",
-      "ShoeLink": "https://images.stockx.com/360/Nike-Kwondo-1-G-Dragon-Peaceminusone-Triple-White/Images/Nike-Kwondo-1-G-Dragon-Peaceminusone-Triple-White/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/nike-kwondo-1-g-dragon-peaceminusone-triple-white",
+      "imageUrl": "https://images.stockx.com/360/Nike-Kwondo-1-G-Dragon-Peaceminusone-Triple-White/Images/Nike-Kwondo-1-G-Dragon-Peaceminusone-Triple-White/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Nike Air Max 1 Travis Scott Cactus Jack Saturn Gold",
+      "name": "Nike Air Max 1 Travis Scott Cactus Jack Saturn Gold",
       "ProductSize": "9.5",
-      "StockxLink": "https://stockx.com/nike-air-max-1-travis-scott-wheat",
-      "ShoeLink": "https://images.stockx.com/360/Nike-Air-Max-1-Travis-Scott-Wheat/Images/Nike-Air-Max-1-Travis-Scott-Wheat/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/nike-air-max-1-travis-scott-wheat",
+      "imageUrl": "https://images.stockx.com/360/Nike-Air-Max-1-Travis-Scott-Wheat/Images/Nike-Air-Max-1-Travis-Scott-Wheat/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": true
     },
     {
-      "ProductName": "Nike Air Force 1 Mid Stussy Black White",
+      "name": "Nike Air Force 1 Mid Stussy Black White",
       "ProductSize": "9.5",
-      "StockxLink": "https://stockx.com/nike-air-force-1-mid-stussy-black-white",
-      "ShoeLink": "https://images.stockx.com/360/Nike-Air-Force-1-Mid-Stussy-Black-White/Images/Nike-Air-Force-1-Mid-Stussy-Black-White/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/nike-air-force-1-mid-stussy-black-white",
+      "imageUrl": "https://images.stockx.com/360/Nike-Air-Force-1-Mid-Stussy-Black-White/Images/Nike-Air-Force-1-Mid-Stussy-Black-White/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": true
     },
     {
-      "ProductName": "Nike Air Max 1 Travis Scott Cactus Jack Baroque Brown",
+      "name": "Nike Air Max 1 Travis Scott Cactus Jack Baroque Brown",
       "ProductSize": "9.5",
-      "StockxLink": "https://stockx.com/nike-air-max-1-travis-scott-baroque-brown",
-      "ShoeLink": "https://images.stockx.com/360/Nike-Air-Max-1-Travis-Scott-Baroque-Brown/Images/Nike-Air-Max-1-Travis-Scott-Baroque-Brown/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/nike-air-max-1-travis-scott-baroque-brown",
+      "imageUrl": "https://images.stockx.com/360/Nike-Air-Max-1-Travis-Scott-Baroque-Brown/Images/Nike-Air-Max-1-Travis-Scott-Baroque-Brown/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": true
     },
     {
-      "ProductName": "Nike Dunk High Championship White Red",
+      "name": "Nike Dunk High Championship White Red",
       "ProductSize": "8",
-      "StockxLink": "https://stockx.com/nike-dunk-high-university-red?size=8",
-      "ShoeLink": "https://images.stockx.com/360/Nike-Dunk-High-University-Red/Images/Nike-Dunk-High-University-Red/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/nike-dunk-high-university-red?size=8",
+      "imageUrl": "https://images.stockx.com/360/Nike-Dunk-High-University-Red/Images/Nike-Dunk-High-University-Red/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": true
     },
     {
-      "ProductName": "Nike Dunk Low Retro QS Argon",
+      "name": "Nike Dunk Low Retro QS Argon",
       "ProductSize": "10",
-      "StockxLink": "https://stockx.com/nike-dunk-low-retro-qs-flash-white-argon-blue-flash?size=10",
-      "ShoeLink": "https://images.stockx.com/360/Nike-Dunk-Low-Retro-Qs-Flash-White-Argon-Blue-Flash/Images/Nike-Dunk-Low-Retro-Qs-Flash-White-Argon-Blue-Flash/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/nike-dunk-low-retro-qs-flash-white-argon-blue-flash?size=10",
+      "imageUrl": "https://images.stockx.com/360/Nike-Dunk-Low-Retro-Qs-Flash-White-Argon-Blue-Flash/Images/Nike-Dunk-Low-Retro-Qs-Flash-White-Argon-Blue-Flash/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Nike Dunk Low Wolf Grey Pure Platinum ",
+      "name": "Nike Dunk Low Wolf Grey Pure Platinum ",
       "ProductSize": "12",
-      "StockxLink": "https://stockx.com/nike-dunk-low-wolf-grey-pure-platinum?size=12",
-      "ShoeLink": "https://images.stockx.com/360/Nike-Dunk-Low-Wolf-Grey-Pure-Platinum/Images/Nike-Dunk-Low-Wolf-Grey-Pure-Platinum/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/nike-dunk-low-wolf-grey-pure-platinum?size=12",
+      "imageUrl": "https://images.stockx.com/360/Nike-Dunk-Low-Wolf-Grey-Pure-Platinum/Images/Nike-Dunk-Low-Wolf-Grey-Pure-Platinum/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": true
     }
   ],
   "YEEZY": [
     {
-      "ProductName": "adidas YEEZY 700 V3 \"Mono Safflower\"",
+      "name": "adidas YEEZY 700 V3 \"Mono Safflower\"",
       "ProductSize": "11",
-      "StockxLink": "https://stockx.com/adidas-yeezy-700-v3-mono-safflower",
-      "ShoeLink": "https://images.stockx.com/360/adidas-Yeezy-700-V3-Mono-Safflower/Images/adidas-Yeezy-700-V3-Mono-Safflower/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/adidas-yeezy-700-v3-mono-safflower",
+      "imageUrl": "https://images.stockx.com/360/adidas-Yeezy-700-V3-Mono-Safflower/Images/adidas-Yeezy-700-V3-Mono-Safflower/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": true
     },
     {
-      "ProductName": "adidas Yeezy 450 \"Dark Slate\"",
+      "name": "adidas Yeezy 450 \"Dark Slate\"",
       "ProductSize": "10",
-      "StockxLink": "https://stockx.com/adidas-yeezy-450-dark-slate",
-      "ShoeLink": "https://images.stockx.com/360/adidas-Yeezy-450-Dark-Slate/Images/adidas-Yeezy-450-Dark-Slate/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/adidas-yeezy-450-dark-slate",
+      "imageUrl": "https://images.stockx.com/360/adidas-Yeezy-450-Dark-Slate/Images/adidas-Yeezy-450-Dark-Slate/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": true
     },
     {
-      "ProductName": "adidas Yeezy 450 \"Cloud White\"",
+      "name": "adidas Yeezy 450 \"Cloud White\"",
       "ProductSize": "9.5",
-      "StockxLink": "https://stockx.com/adidas-yeezy-450-cloud-white",
-      "ShoeLink": "https://images.stockx.com/360/adidas-Yeezy-450-Cloud-White/Images/adidas-Yeezy-450-Cloud-White/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/adidas-yeezy-450-cloud-white",
+      "imageUrl": "https://images.stockx.com/360/adidas-Yeezy-450-Cloud-White/Images/adidas-Yeezy-450-Cloud-White/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": true
     },
     {
-      "ProductName": "adidas Yeezy Boost 350 V2 \"Zyon\"",
+      "name": "adidas Yeezy Boost 350 V2 \"Zyon\"",
       "ProductSize": "9.5",
-      "StockxLink": "https://stockx.com/adidas-yeezy-boost-350-v2-zyon",
-      "ShoeLink": "https://images.stockx.com/360/adidas-Yeezy-Boost-350-V2-Zyon/Images/adidas-Yeezy-Boost-350-V2-Zyon/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/adidas-yeezy-boost-350-v2-zyon",
+      "imageUrl": "https://images.stockx.com/360/adidas-Yeezy-Boost-350-V2-Zyon/Images/adidas-Yeezy-Boost-350-V2-Zyon/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": true
     },
     {
-      "ProductName": "adidas Yeezy Boost 350 V2 \"MX Oat\"",
+      "name": "adidas Yeezy Boost 350 V2 \"MX Oat\"",
       "ProductSize": "9",
-      "StockxLink": "https://stockx.com/adidas-yeezy-boost-350-v2-mx-oat",
-      "ShoeLink": "https://images.stockx.com/360/adidas-Yeezy-Boost-350-V2-Mx-Oat/Images/adidas-Yeezy-Boost-350-V2-Mx-Oat/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/adidas-yeezy-boost-350-v2-mx-oat",
+      "imageUrl": "https://images.stockx.com/360/adidas-Yeezy-Boost-350-V2-Mx-Oat/Images/adidas-Yeezy-Boost-350-V2-Mx-Oat/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "adidas Yeezy Boost 350 V2 \"MX Oat\"",
+      "name": "adidas Yeezy Boost 350 V2 \"MX Oat\"",
       "ProductSize": "9.5",
-      "StockxLink": "https://stockx.com/adidas-yeezy-boost-350-v2-mx-oat",
-      "ShoeLink": "https://images.stockx.com/360/adidas-Yeezy-Boost-350-V2-Mx-Oat/Images/adidas-Yeezy-Boost-350-V2-Mx-Oat/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/adidas-yeezy-boost-350-v2-mx-oat",
+      "imageUrl": "https://images.stockx.com/360/adidas-Yeezy-Boost-350-V2-Mx-Oat/Images/adidas-Yeezy-Boost-350-V2-Mx-Oat/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "adidas Yeezy Boost 700 \"Wash Orange\"",
+      "name": "adidas Yeezy Boost 700 \"Wash Orange\"",
       "ProductSize": "9.5",
-      "StockxLink": "https://stockx.com/adidas-yeezy-boost-700-wash-orange",
-      "ShoeLink": "https://images.stockx.com/360/adidas-Yeezy-Boost-700-Wash-Orange/Images/adidas-Yeezy-Boost-700-Wash-Orange/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/adidas-yeezy-boost-700-wash-orange",
+      "imageUrl": "https://images.stockx.com/360/adidas-Yeezy-Boost-700-Wash-Orange/Images/adidas-Yeezy-Boost-700-Wash-Orange/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": true
     },
     {
-      "ProductName": "adidas Yeezy Boost 700 Wave Runner \"Solid Grey\"",
+      "name": "adidas Yeezy Boost 700 Wave Runner \"Solid Grey\"",
       "ProductSize": "9.5",
-      "StockxLink": "https://stockx.com/adidas-yeezy-wave-runner-700-solid-grey",
-      "ShoeLink": "https://images.stockx.com/360/adidas-Yeezy-Wave-Runner-700-Solid-Grey/Images/adidas-Yeezy-Wave-Runner-700-Solid-Grey/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/adidas-yeezy-wave-runner-700-solid-grey",
+      "imageUrl": "https://images.stockx.com/360/adidas-Yeezy-Wave-Runner-700-Solid-Grey/Images/adidas-Yeezy-Wave-Runner-700-Solid-Grey/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": true
     },
     {
-      "ProductName": "adidas Yeezy Boost 350 V2 Beluga Reflective",
+      "name": "adidas Yeezy Boost 350 V2 Beluga Reflective",
       "ProductSize": "10",
-      "StockxLink": "https://stockx.com/adidas-yeezy-boost-350-v2-beluga-reflective",
-      "ShoeLink": "https://images.stockx.com/360/adidas-Yeezy-Boost-350-V2-Beluga-Reflective/Images/adidas-Yeezy-Boost-350-V2-Beluga-Reflective/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/adidas-yeezy-boost-350-v2-beluga-reflective",
+      "imageUrl": "https://images.stockx.com/360/adidas-Yeezy-Boost-350-V2-Beluga-Reflective/Images/adidas-Yeezy-Boost-350-V2-Beluga-Reflective/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": true
     },
     {
-      "ProductName": "adidas Yeezy Boost 700 MNVN \"Resin\"",
+      "name": "adidas Yeezy Boost 700 MNVN \"Resin\"",
       "ProductSize": "9.5",
-      "StockxLink": "https://stockx.com/adidas-yeezy-boost-700-mnvn-resin",
-      "ShoeLink": "https://images.stockx.com/360/adidas-Yeezy-Boost-700-Mnvn-Resin/Images/adidas-Yeezy-Boost-700-Mnvn-Resin/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/adidas-yeezy-boost-700-mnvn-resin",
+      "imageUrl": "https://images.stockx.com/360/adidas-Yeezy-Boost-700-Mnvn-Resin/Images/adidas-Yeezy-Boost-700-Mnvn-Resin/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "adidas Yeezy Boost 700 V2 \"Static\" (2018/2022)",
+      "name": "adidas Yeezy Boost 700 V2 \"Static\" (2018/2022)",
       "ProductSize": "10",
-      "StockxLink": "https://stockx.com/adidas-yeezy-boost-700-v2-static",
-      "ShoeLink": "https://images.stockx.com/360/adidas-Yeezy-Boost-700-V2-Static/Images/adidas-Yeezy-Boost-700-V2-Static/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/adidas-yeezy-boost-700-v2-static",
+      "imageUrl": "https://images.stockx.com/360/adidas-Yeezy-Boost-700-V2-Static/Images/adidas-Yeezy-Boost-700-V2-Static/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "adidas Yeezy Boost 350 V2 Zebra (2017/2022)",
+      "name": "adidas Yeezy Boost 350 V2 Zebra (2017/2022)",
       "ProductSize": "8.5",
-      "StockxLink": "https://stockx.com/adidas-yeezy-boost-350-v2-white-core-black-red",
-      "ShoeLink": "https://images.stockx.com/360/adidas-Yeezy-Boost-350-V2-White-Core-Black-Red/Images/adidas-Yeezy-Boost-350-V2-White-Core-Black-Red/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/adidas-yeezy-boost-350-v2-white-core-black-red",
+      "imageUrl": "https://images.stockx.com/360/adidas-Yeezy-Boost-350-V2-White-Core-Black-Red/Images/adidas-Yeezy-Boost-350-V2-White-Core-Black-Red/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "adidas Yeezy Boost 350 V2 Zebra (2017/2022)",
+      "name": "adidas Yeezy Boost 350 V2 Zebra (2017/2022)",
       "ProductSize": "10",
-      "StockxLink": "https://stockx.com/adidas-yeezy-boost-350-v2-white-core-black-red",
-      "ShoeLink": "https://images.stockx.com/360/adidas-Yeezy-Boost-350-V2-White-Core-Black-Red/Images/adidas-Yeezy-Boost-350-V2-White-Core-Black-Red/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/adidas-yeezy-boost-350-v2-white-core-black-red",
+      "imageUrl": "https://images.stockx.com/360/adidas-Yeezy-Boost-350-V2-White-Core-Black-Red/Images/adidas-Yeezy-Boost-350-V2-White-Core-Black-Red/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "adidas Yeezy 350 V2 CMPCT Slate Carbon",
+      "name": "adidas Yeezy 350 V2 CMPCT Slate Carbon",
       "ProductSize": "10",
-      "StockxLink": "https://stockx.com/adidas-yeezy-350-v2-cmpct-slate-carbon",
-      "ShoeLink": "https://images.stockx.com/360/adidas-Yeezy-350-V2-Cmpct-Slate-Carbon/Images/adidas-Yeezy-350-V2-Cmpct-Slate-Carbon/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/adidas-yeezy-350-v2-cmpct-slate-carbon",
+      "imageUrl": "https://images.stockx.com/360/adidas-Yeezy-350-V2-Cmpct-Slate-Carbon/Images/adidas-Yeezy-350-V2-Cmpct-Slate-Carbon/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "adidas Yeezy Slide Pure (Restock Pair)",
+      "name": "adidas Yeezy Slide Pure (Restock Pair)",
       "ProductSize": "7",
-      "StockxLink": "https://stockx.com/adidas-yeezy-slide-pure-restock-pair",
-      "ShoeLink": "https://images.stockx.com/360/adidas-Yeezy-Slide-Pure-Restock-Pair/Images/adidas-Yeezy-Slide-Pure-Restock-Pair/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/adidas-yeezy-slide-pure-restock-pair",
+      "imageUrl": "https://images.stockx.com/360/adidas-Yeezy-Slide-Pure-Restock-Pair/Images/adidas-Yeezy-Slide-Pure-Restock-Pair/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": true
     },
     {
-      "ProductName": "adidas Yeezy Boost 700 V2 Static (2018/2022)",
+      "name": "adidas Yeezy Boost 700 V2 Static (2018/2022)",
       "ProductSize": "6",
-      "StockxLink": "https://stockx.com/adidas-yeezy-boost-700-v2-static",
-      "ShoeLink": "https://images.stockx.com/360/adidas-Yeezy-Boost-700-V2-Static/Images/adidas-Yeezy-Boost-700-V2-Static/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/adidas-yeezy-boost-700-v2-static",
+      "imageUrl": "https://images.stockx.com/360/adidas-Yeezy-Boost-700-V2-Static/Images/adidas-Yeezy-Boost-700-V2-Static/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "adidas Yeezy Foam RNR Onyx",
+      "name": "adidas Yeezy Foam RNR Onyx",
       "ProductSize": "12",
-      "StockxLink": "https://stockx.com/adidas-yeezy-foam-rnnr-onyx",
-      "ShoeLink": "https://images.stockx.com/360/adidas-Yeezy-Foam-Rnnr-Onyx/Images/adidas-Yeezy-Foam-Rnnr-Onyx/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/adidas-yeezy-foam-rnnr-onyx",
+      "imageUrl": "https://images.stockx.com/360/adidas-Yeezy-Foam-Rnnr-Onyx/Images/adidas-Yeezy-Foam-Rnnr-Onyx/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "adidas Yeezy BSKTBL Knit Slate Azure",
+      "name": "adidas Yeezy BSKTBL Knit Slate Azure",
       "ProductSize": "10",
-      "StockxLink": "https://stockx.com/adidas-yeezy-bsktbl-knit-slate-azure",
-      "ShoeLink": "https://images.stockx.com/360/adidas-Yeezy-Bsktbl-Knit-Slate-Azure/Images/adidas-Yeezy-Bsktbl-Knit-Slate-Azure/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/adidas-yeezy-bsktbl-knit-slate-azure",
+      "imageUrl": "https://images.stockx.com/360/adidas-Yeezy-Bsktbl-Knit-Slate-Azure/Images/adidas-Yeezy-Bsktbl-Knit-Slate-Azure/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "adidas Yeezy Slide Flax",
+      "name": "adidas Yeezy Slide Flax",
       "ProductSize": "6",
-      "StockxLink": "https://stockx.com/adidas-yeezy-slide-flax?size=6",
-      "ShoeLink": "https://images.stockx.com/360/adidas-Yeezy-Slide-Flax/Images/adidas-Yeezy-Slide-Flax/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/adidas-yeezy-slide-flax?size=6",
+      "imageUrl": "https://images.stockx.com/360/adidas-Yeezy-Slide-Flax/Images/adidas-Yeezy-Slide-Flax/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": true
     },
     {
-      "ProductName": "adidas Yeezy 350V2 CMPCT Slate Bone",
+      "name": "adidas Yeezy 350V2 CMPCT Slate Bone",
       "ProductSize": "10",
-      "StockxLink": "https://stockx.com/adidas-yeezy-350-v2-cmpct-slate-bone?size=10",
-      "ShoeLink": "https://images.stockx.com/360/adidas-Yeezy-350-V2-Cmpct-Slate-Bone/Images/adidas-Yeezy-350-V2-Cmpct-Slate-Bone/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/adidas-yeezy-350-v2-cmpct-slate-bone?size=10",
+      "imageUrl": "https://images.stockx.com/360/adidas-Yeezy-350-V2-Cmpct-Slate-Bone/Images/adidas-Yeezy-350-V2-Cmpct-Slate-Bone/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "adidas Yeezy 350V2 CMPCT Slate Bone",
+      "name": "adidas Yeezy 350V2 CMPCT Slate Bone",
       "ProductSize": "6",
-      "StockxLink": "https://stockx.com/adidas-yeezy-350-v2-cmpct-slate-bone?size=6",
-      "ShoeLink": "https://images.stockx.com/360/adidas-Yeezy-350-V2-Cmpct-Slate-Bone/Images/adidas-Yeezy-350-V2-Cmpct-Slate-Bone/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/adidas-yeezy-350-v2-cmpct-slate-bone?size=6",
+      "imageUrl": "https://images.stockx.com/360/adidas-Yeezy-350-V2-Cmpct-Slate-Bone/Images/adidas-Yeezy-350-V2-Cmpct-Slate-Bone/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "adidas Yeezy Boost 350 V2 Slate",
+      "name": "adidas Yeezy Boost 350 V2 Slate",
       "ProductSize": "6",
-      "StockxLink": "https://stockx.com/adidas-yeezy-boost-350-v2-slate-core-black-slate",
-      "ShoeLink": "https://images.stockx.com/360/adidas-Yeezy-Boost-350-V2-Slate-Core-Black-Slate/Images/adidas-Yeezy-Boost-350-V2-Slate-Core-Black-Slate/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/adidas-yeezy-boost-350-v2-slate-core-black-slate",
+      "imageUrl": "https://images.stockx.com/360/adidas-Yeezy-Boost-350-V2-Slate-Core-Black-Slate/Images/adidas-Yeezy-Boost-350-V2-Slate-Core-Black-Slate/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": true
     },
     {
-      "ProductName": "adidas Yeezy Boost 350 V2 Blue Tint",
+      "name": "adidas Yeezy Boost 350 V2 Blue Tint",
       "ProductSize": "8.5",
-      "StockxLink": "https://stockx.com/adidas-yeezy-boost-350-v2-blue-tint?size=8.5",
-      "ShoeLink": "https://images.stockx.com/360/adidas-Yeezy-Boost-350-V2-Blue-Tint/Images/adidas-Yeezy-Boost-350-V2-Blue-Tint/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/adidas-yeezy-boost-350-v2-blue-tint?size=8.5",
+      "imageUrl": "https://images.stockx.com/360/adidas-Yeezy-Boost-350-V2-Blue-Tint/Images/adidas-Yeezy-Boost-350-V2-Blue-Tint/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": true
     },
     {
-      "ProductName": "adidas Yeezy Boost 350 V2 Slate",
+      "name": "adidas Yeezy Boost 350 V2 Slate",
       "ProductSize": "8",
-      "StockxLink": "https://stockx.com/adidas-yeezy-boost-350-v2-slate-core-black-slate?size=8",
-      "ShoeLink": "https://images.stockx.com/360/adidas-Yeezy-Boost-350-V2-Slate-Core-Black-Slate/Images/adidas-Yeezy-Boost-350-V2-Slate-Core-Black-Slate/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/adidas-yeezy-boost-350-v2-slate-core-black-slate?size=8",
+      "imageUrl": "https://images.stockx.com/360/adidas-Yeezy-Boost-350-V2-Slate-Core-Black-Slate/Images/adidas-Yeezy-Boost-350-V2-Slate-Core-Black-Slate/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": true
     },
     {
-      "ProductName": "adidas Yeezy 450 Dark Slate",
+      "name": "adidas Yeezy 450 Dark Slate",
       "ProductSize": "6.5",
-      "StockxLink": "https://stockx.com/adidas-yeezy-450-dark-slate?size=6.5",
-      "ShoeLink": "https://images.stockx.com/360/adidas-Yeezy-450-Dark-Slate/Images/adidas-Yeezy-450-Dark-Slate/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/adidas-yeezy-450-dark-slate?size=6.5",
+      "imageUrl": "https://images.stockx.com/360/adidas-Yeezy-450-Dark-Slate/Images/adidas-Yeezy-450-Dark-Slate/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": true
     },
     {
-      "ProductName": "adidas Yeezy 450 Stone Flax",
+      "name": "adidas Yeezy 450 Stone Flax",
       "ProductSize": "10",
-      "StockxLink": "https://stockx.com/adidas-yeezy-450-stone-flax?size=10",
-      "ShoeLink": "https://images.stockx.com/360/adidas-Yeezy-450-Stone-Flax/Images/adidas-Yeezy-450-Stone-Flax/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/adidas-yeezy-450-stone-flax?size=10",
+      "imageUrl": "https://images.stockx.com/360/adidas-Yeezy-450-Stone-Flax/Images/adidas-Yeezy-450-Stone-Flax/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": true
     },
     {
-      "ProductName": "adidas Yeezy 450 Stone Flax",
+      "name": "adidas Yeezy 450 Stone Flax",
       "ProductSize": "10",
-      "StockxLink": "https://stockx.com/adidas-yeezy-450-stone-flax?size=10",
-      "ShoeLink": "https://images.stockx.com/360/adidas-Yeezy-450-Stone-Flax/Images/adidas-Yeezy-450-Stone-Flax/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/adidas-yeezy-450-stone-flax?size=10",
+      "imageUrl": "https://images.stockx.com/360/adidas-Yeezy-450-Stone-Flax/Images/adidas-Yeezy-450-Stone-Flax/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": true
     },
     {
-      "ProductName": "adidas Yeezy Foam RNNR Ochre",
+      "name": "adidas Yeezy Foam RNNR Ochre",
       "ProductSize": "6",
-      "StockxLink": "https://stockx.com/adidas-yeezy-foam-rnnr-ochre?size=6",
-      "ShoeLink": "https://images.stockx.com/360/adidas-Yeezy-Foam-Rnnr-Ochre/Images/adidas-Yeezy-Foam-Rnnr-Ochre/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/adidas-yeezy-foam-rnnr-ochre?size=6",
+      "imageUrl": "https://images.stockx.com/360/adidas-Yeezy-Foam-Rnnr-Ochre/Images/adidas-Yeezy-Foam-Rnnr-Ochre/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "adidas Yeezy Foam RNNR Vermillion",
+      "name": "adidas Yeezy Foam RNNR Vermillion",
       "ProductSize": "6",
-      "StockxLink": "https://stockx.com/adidas-yeezy-foam-rnnr-vermillion?size=6",
-      "ShoeLink": "https://images.stockx.com/360/adidas-Yeezy-Foam-Rnnr-Vermillion/Images/adidas-Yeezy-Foam-Rnnr-Vermillion/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/adidas-yeezy-foam-rnnr-vermillion?size=6",
+      "imageUrl": "https://images.stockx.com/360/adidas-Yeezy-Foam-Rnnr-Vermillion/Images/adidas-Yeezy-Foam-Rnnr-Vermillion/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "adidas Yeezy Foam RNNR Sand",
+      "name": "adidas Yeezy Foam RNNR Sand",
       "ProductSize": "7",
-      "StockxLink": "https://stockx.com/adidas-yeezy-foam-rnnr-sand?size=7",
-      "ShoeLink": "https://images.stockx.com/360/adidas-Yeezy-Foam-Rnnr-Sand/Images/adidas-Yeezy-Foam-Rnnr-Sand/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/adidas-yeezy-foam-rnnr-sand?size=7",
+      "imageUrl": "https://images.stockx.com/360/adidas-Yeezy-Foam-Rnnr-Sand/Images/adidas-Yeezy-Foam-Rnnr-Sand/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "adidas Yeezy Foam RNNR Sand",
+      "name": "adidas Yeezy Foam RNNR Sand",
       "ProductSize": "8",
-      "StockxLink": "https://stockx.com/adidas-yeezy-foam-rnnr-sand?size=8",
-      "ShoeLink": "https://images.stockx.com/360/adidas-Yeezy-Foam-Rnnr-Sand/Images/adidas-Yeezy-Foam-Rnnr-Sand/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/adidas-yeezy-foam-rnnr-sand?size=8",
+      "imageUrl": "https://images.stockx.com/360/adidas-Yeezy-Foam-Rnnr-Sand/Images/adidas-Yeezy-Foam-Rnnr-Sand/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "adidas Yeezy Foam RNNR Stone Sage",
+      "name": "adidas Yeezy Foam RNNR Stone Sage",
       "ProductSize": "11",
-      "StockxLink": "https://stockx.com/adidas-yeezy-foam-rnnr-stone-sage?size=11",
-      "ShoeLink": "https://images.stockx.com/360/adidas-Yeezy-Foam-Rnnr-Stone-Sage/Images/adidas-Yeezy-Foam-Rnnr-Stone-Sage/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/adidas-yeezy-foam-rnnr-stone-sage?size=11",
+      "imageUrl": "https://images.stockx.com/360/adidas-Yeezy-Foam-Rnnr-Stone-Sage/Images/adidas-Yeezy-Foam-Rnnr-Stone-Sage/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "adidas Yeezy Boost 700 Wave Runner",
+      "name": "adidas Yeezy Boost 700 Wave Runner",
       "ProductSize": "9.5",
-      "StockxLink": "https://stockx.com/adidas-yeezy-wave-runner-700-solid-grey?size=9.5",
-      "ShoeLink": "https://images.stockx.com/360/adidas-Yeezy-Wave-Runner-700-Solid-Grey/Images/adidas-Yeezy-Wave-Runner-700-Solid-Grey/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/adidas-yeezy-wave-runner-700-solid-grey?size=9.5",
+      "imageUrl": "https://images.stockx.com/360/adidas-Yeezy-Wave-Runner-700-Solid-Grey/Images/adidas-Yeezy-Wave-Runner-700-Solid-Grey/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": true
     },
     {
-      "ProductName": "adidas Yeezy Boost 700 V2 Static",
+      "name": "adidas Yeezy Boost 700 V2 Static",
       "ProductSize": "8.5",
-      "StockxLink": "https://stockx.com/adidas-yeezy-boost-700-v2-static?size=8.5",
-      "ShoeLink": "https://images.stockx.com/360/adidas-Yeezy-Boost-700-V2-Static/Images/adidas-Yeezy-Boost-700-V2-Static/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/adidas-yeezy-boost-700-v2-static?size=8.5",
+      "imageUrl": "https://images.stockx.com/360/adidas-Yeezy-Boost-700-V2-Static/Images/adidas-Yeezy-Boost-700-V2-Static/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "adidas Yeezy Boost 700 MNVN Laceless Analog",
+      "name": "adidas Yeezy Boost 700 MNVN Laceless Analog",
       "ProductSize": "11",
-      "StockxLink": "https://stockx.com/adidas-yeezy-boost-700-mnvn-laceless-analog?size=11",
-      "ShoeLink": "https://images.stockx.com/360/adidas-Yeezy-Boost-700-Mnvn-Laceless-Analog/Images/adidas-Yeezy-Boost-700-Mnvn-Laceless-Analog/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/adidas-yeezy-boost-700-mnvn-laceless-analog?size=11",
+      "imageUrl": "https://images.stockx.com/360/adidas-Yeezy-Boost-700-Mnvn-Laceless-Analog/Images/adidas-Yeezy-Boost-700-Mnvn-Laceless-Analog/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     }
   ],
   "ESSENTIALS": [
     {
-      "ProductName": "Fear of God Essentials Crewneck Crewneck Seafoam",
+      "name": "Fear of God Essentials Crewneck Crewneck Seafoam",
       "ProductSize": "M",
-      "StockxLink": "https://stockx.com/en-gb/fear-of-god-essentials-crewneck-crewneck-seafoam",
-      "ShoeLink": "https://images.stockx.com/360/en-gb/Images/en-gb/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/en-gb/fear-of-god-essentials-crewneck-crewneck-seafoam",
+      "imageUrl": "https://images.stockx.com/360/en-gb/Images/en-gb/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Hoodie Seafoam",
+      "name": "Fear of God Essentials Hoodie Seafoam",
       "ProductSize": "M",
-      "StockxLink": "https://stockx.com/en-gb/fear-of-god-essentials-hoodie-hoodie-seafoam",
-      "ShoeLink": "https://images.stockx.com/360/en-gb/Images/en-gb/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/en-gb/fear-of-god-essentials-hoodie-hoodie-seafoam",
+      "imageUrl": "https://images.stockx.com/360/en-gb/Images/en-gb/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Hoodie Seafoam",
+      "name": "Fear of God Essentials Hoodie Seafoam",
       "ProductSize": "M",
-      "StockxLink": "https://stockx.com/en-gb/fear-of-god-essentials-hoodie-hoodie-seafoam",
-      "ShoeLink": "https://images.stockx.com/360/en-gb/Images/en-gb/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/en-gb/fear-of-god-essentials-hoodie-hoodie-seafoam",
+      "imageUrl": "https://images.stockx.com/360/en-gb/Images/en-gb/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Sweatpants Seafoam",
+      "name": "Fear of God Essentials Sweatpants Seafoam",
       "ProductSize": "M",
-      "StockxLink": "https://stockx.com/en-gb/fear-of-god-essentials-sweatpants-sweatpants-seafoam",
-      "ShoeLink": "https://images.stockx.com/360/en-gb/Images/en-gb/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/en-gb/fear-of-god-essentials-sweatpants-sweatpants-seafoam",
+      "imageUrl": "https://images.stockx.com/360/en-gb/Images/en-gb/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Sweatpants Seafoam",
+      "name": "Fear of God Essentials Sweatpants Seafoam",
       "ProductSize": "M",
-      "StockxLink": "https://stockx.com/en-gb/fear-of-god-essentials-sweatpants-sweatpants-seafoam",
-      "ShoeLink": "https://images.stockx.com/360/en-gb/Images/en-gb/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/en-gb/fear-of-god-essentials-sweatpants-sweatpants-seafoam",
+      "imageUrl": "https://images.stockx.com/360/en-gb/Images/en-gb/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Shorts Seafoam",
+      "name": "Fear of God Essentials Shorts Seafoam",
       "ProductSize": "M",
-      "StockxLink": "https://stockx.com/en-gb/fear-of-god-essentials-shorts-seafoam",
-      "ShoeLink": "https://images.stockx.com/360/en-gb/Images/en-gb/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/en-gb/fear-of-god-essentials-shorts-seafoam",
+      "imageUrl": "https://images.stockx.com/360/en-gb/Images/en-gb/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Shorts Seafoam",
+      "name": "Fear of God Essentials Shorts Seafoam",
       "ProductSize": "M",
-      "StockxLink": "https://stockx.com/fear-of-god-essentials-shorts-seafoam?size=M",
-      "ShoeLink": "https://images.stockx.com/360/Fear-Of-God-Essentials-Shorts-Seafoam/Images/Fear-Of-God-Essentials-Shorts-Seafoam/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/fear-of-god-essentials-shorts-seafoam?size=M",
+      "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-Shorts-Seafoam/Images/Fear-Of-God-Essentials-Shorts-Seafoam/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Sweatpants Sweatpants Wheat",
+      "name": "Fear of God Essentials Sweatpants Sweatpants Wheat",
       "ProductSize": "M",
-      "StockxLink": "https://stockx.com/en-gb/fear-of-god-essentials-sweatpants-sweatpants-wheat",
-      "ShoeLink": "https://images.stockx.com/360/en-gb/Images/en-gb/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/en-gb/fear-of-god-essentials-sweatpants-sweatpants-wheat",
+      "imageUrl": "https://images.stockx.com/360/en-gb/Images/en-gb/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials 1977 Hoodie Wheat ",
+      "name": "Fear of God Essentials 1977 Hoodie Wheat ",
       "ProductSize": "M",
-      "StockxLink": "https://stockx.com/en-gb/fear-of-god-essentials-1977-hoodie-wheat",
-      "ShoeLink": "https://images.stockx.com/360/en-gb/Images/en-gb/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/en-gb/fear-of-god-essentials-1977-hoodie-wheat",
+      "imageUrl": "https://images.stockx.com/360/en-gb/Images/en-gb/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Relaxed Hoodie Wheat",
+      "name": "Fear of God Essentials Relaxed Hoodie Wheat",
       "ProductSize": "M",
-      "StockxLink": "https://stockx.com/en-gb/fear-of-god-essentials-relaxed-hoodie-wheat",
-      "ShoeLink": "https://images.stockx.com/360/en-gb/Images/en-gb/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/en-gb/fear-of-god-essentials-relaxed-hoodie-wheat",
+      "imageUrl": "https://images.stockx.com/360/en-gb/Images/en-gb/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials 1977 L/S T-shirt Iron",
+      "name": "Fear of God Essentials 1977 L/S T-shirt Iron",
       "ProductSize": "M",
-      "StockxLink": "https://stockx.com/en-gb/fear-of-god-essentials-1977-l-s-t-shirt-iron",
-      "ShoeLink": "https://images.stockx.com/360/en-gb/Images/en-gb/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/en-gb/fear-of-god-essentials-1977-l-s-t-shirt-iron",
+      "imageUrl": "https://images.stockx.com/360/en-gb/Images/en-gb/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials 1977 L/S T-shirt Iron",
+      "name": "Fear of God Essentials 1977 L/S T-shirt Iron",
       "ProductSize": "M",
-      "StockxLink": "https://stockx.com/en-gb/fear-of-god-essentials-1977-l-s-t-shirt-iron",
-      "ShoeLink": "https://images.stockx.com/360/en-gb/Images/en-gb/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/en-gb/fear-of-god-essentials-1977-l-s-t-shirt-iron",
+      "imageUrl": "https://images.stockx.com/360/en-gb/Images/en-gb/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Relaxed Hoodie Iron",
+      "name": "Fear of God Essentials Relaxed Hoodie Iron",
       "ProductSize": "M",
-      "StockxLink": "https://stockx.com/en-gb/fear-of-god-essentials-relaxed-hoodie-iron",
-      "ShoeLink": "https://images.stockx.com/360/en-gb/Images/en-gb/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/en-gb/fear-of-god-essentials-relaxed-hoodie-iron",
+      "imageUrl": "https://images.stockx.com/360/en-gb/Images/en-gb/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Elasticized Cuffs 1977 Sweatpants Iron",
+      "name": "Fear of God Essentials Elasticized Cuffs 1977 Sweatpants Iron",
       "ProductSize": "M",
-      "StockxLink": "https://stockx.com/en-gb/fear-of-god-essentials-1977-sweatpants-iron",
-      "ShoeLink": "https://images.stockx.com/360/en-gb/Images/en-gb/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/en-gb/fear-of-god-essentials-1977-sweatpants-iron",
+      "imageUrl": "https://images.stockx.com/360/en-gb/Images/en-gb/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Elasticized Cuffs 1977 Sweatpants Iron",
+      "name": "Fear of God Essentials Elasticized Cuffs 1977 Sweatpants Iron",
       "ProductSize": "M",
-      "StockxLink": "https://stockx.com/en-gb/fear-of-god-essentials-1977-sweatpants-iron",
-      "ShoeLink": "https://images.stockx.com/360/en-gb/Images/en-gb/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/en-gb/fear-of-god-essentials-1977-sweatpants-iron",
+      "imageUrl": "https://images.stockx.com/360/en-gb/Images/en-gb/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Elasticized Cuffs 1977 Sweatpants Iron",
+      "name": "Fear of God Essentials Elasticized Cuffs 1977 Sweatpants Iron",
       "ProductSize": "M",
-      "StockxLink": "https://stockx.com/en-gb/fear-of-god-essentials-1977-sweatpants-iron",
-      "ShoeLink": "https://images.stockx.com/360/en-gb/Images/en-gb/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/en-gb/fear-of-god-essentials-1977-sweatpants-iron",
+      "imageUrl": "https://images.stockx.com/360/en-gb/Images/en-gb/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Relaxed Hoodie Iron",
+      "name": "Fear of God Essentials Relaxed Hoodie Iron",
       "ProductSize": "M",
-      "StockxLink": "https://stockx.com/en-gb/fear-of-god-essentials-relaxed-hoodie-iron",
-      "ShoeLink": "https://images.stockx.com/360/en-gb/Images/en-gb/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/en-gb/fear-of-god-essentials-relaxed-hoodie-iron",
+      "imageUrl": "https://images.stockx.com/360/en-gb/Images/en-gb/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Relaxed 1977 Sweatpants Iron",
+      "name": "Fear of God Essentials Relaxed 1977 Sweatpants Iron",
       "ProductSize": "M",
-      "StockxLink": "https://stockx.com/en-gb/fear-of-god-essentials-relaxed-sweatpants-iron",
-      "ShoeLink": "https://images.stockx.com/360/en-gb/Images/en-gb/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/en-gb/fear-of-god-essentials-relaxed-sweatpants-iron",
+      "imageUrl": "https://images.stockx.com/360/en-gb/Images/en-gb/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Relaxed 1977 Sweatpants Iron",
+      "name": "Fear of God Essentials Relaxed 1977 Sweatpants Iron",
       "ProductSize": "M",
-      "StockxLink": "https://stockx.com/en-gb/fear-of-god-essentials-relaxed-sweatpants-iron",
-      "ShoeLink": "https://images.stockx.com/360/en-gb/Images/en-gb/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/en-gb/fear-of-god-essentials-relaxed-sweatpants-iron",
+      "imageUrl": "https://images.stockx.com/360/en-gb/Images/en-gb/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Mockneck Iron",
+      "name": "Fear of God Essentials Mockneck Iron",
       "ProductSize": "M",
-      "StockxLink": "https://stockx.com/en-gb/fear-of-god-essentials-mock-neck-sweater-black-stretch-limo",
-      "ShoeLink": "https://images.stockx.com/360/en-gb/Images/en-gb/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/en-gb/fear-of-god-essentials-mock-neck-sweater-black-stretch-limo",
+      "imageUrl": "https://images.stockx.com/360/en-gb/Images/en-gb/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials 1977 T-shirt Iron",
+      "name": "Fear of God Essentials 1977 T-shirt Iron",
       "ProductSize": "M",
-      "StockxLink": "https://stockx.com/en-gb/fear-of-god-essentials-1977-t-shirt-iron",
-      "ShoeLink": "https://images.stockx.com/360/en-gb/Images/en-gb/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/en-gb/fear-of-god-essentials-1977-t-shirt-iron",
+      "imageUrl": "https://images.stockx.com/360/en-gb/Images/en-gb/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials 1977 Knit Hoodie Iron",
+      "name": "Fear of God Essentials 1977 Knit Hoodie Iron",
       "ProductSize": "M",
-      "StockxLink": "https://stockx.com/en-gb/fear-of-god-essentials-1977-knit-hoodie-iron",
-      "ShoeLink": "https://images.stockx.com/360/en-gb/Images/en-gb/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/en-gb/fear-of-god-essentials-1977-knit-hoodie-iron",
+      "imageUrl": "https://images.stockx.com/360/en-gb/Images/en-gb/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials 1977 Shorts Iron",
+      "name": "Fear of God Essentials 1977 Shorts Iron",
       "ProductSize": "M",
-      "StockxLink": "https://stockx.com/en-gb/fear-of-god-essentials-1977-shorts-iron",
-      "ShoeLink": "https://images.stockx.com/360/en-gb/Images/en-gb/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/en-gb/fear-of-god-essentials-1977-shorts-iron",
+      "imageUrl": "https://images.stockx.com/360/en-gb/Images/en-gb/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials 1977 Hoodie Iron",
+      "name": "Fear of God Essentials 1977 Hoodie Iron",
       "ProductSize": "M",
-      "StockxLink": "https://stockx.com/en-gb/fear-of-god-essentials-1977-hoodie-iron",
-      "ShoeLink": "https://images.stockx.com/360/en-gb/Images/en-gb/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/en-gb/fear-of-god-essentials-1977-hoodie-iron",
+      "imageUrl": "https://images.stockx.com/360/en-gb/Images/en-gb/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials 1977 Hoodie Iron",
+      "name": "Fear of God Essentials 1977 Hoodie Iron",
       "ProductSize": "M",
-      "StockxLink": "https://stockx.com/en-gb/fear-of-god-essentials-1977-hoodie-iron",
-      "ShoeLink": "https://images.stockx.com/360/en-gb/Images/en-gb/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/en-gb/fear-of-god-essentials-1977-hoodie-iron",
+      "imageUrl": "https://images.stockx.com/360/en-gb/Images/en-gb/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials 1977 Crewneck Iron",
+      "name": "Fear of God Essentials 1977 Crewneck Iron",
       "ProductSize": "M",
-      "StockxLink": "https://stockx.com/fear-of-god-essentials-1977-crewneck-iron?size=M",
-      "ShoeLink": "https://images.stockx.com/360/Fear-Of-God-Essentials-1977-Crewneck-Iron/Images/Fear-Of-God-Essentials-1977-Crewneck-Iron/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/fear-of-god-essentials-1977-crewneck-iron?size=M",
+      "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-1977-Crewneck-Iron/Images/Fear-Of-God-Essentials-1977-Crewneck-Iron/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials 1977 Crewneck Iron",
+      "name": "Fear of God Essentials 1977 Crewneck Iron",
       "ProductSize": "M",
-      "StockxLink": "https://stockx.com/fear-of-god-essentials-1977-crewneck-iron?size=M",
-      "ShoeLink": "https://images.stockx.com/360/Fear-Of-God-Essentials-1977-Crewneck-Iron/Images/Fear-Of-God-Essentials-1977-Crewneck-Iron/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/fear-of-god-essentials-1977-crewneck-iron?size=M",
+      "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-1977-Crewneck-Iron/Images/Fear-Of-God-Essentials-1977-Crewneck-Iron/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Polo Black/Stretch Limo Jet Black",
+      "name": "Fear of God Essentials Polo Black/Stretch Limo Jet Black",
       "ProductSize": "S",
-      "StockxLink": "https://stockx.com/fear-of-god-essentials-polo-black-stretch-limo?size=S",
-      "ShoeLink": "https://images.stockx.com/360/Fear-Of-God-Essentials-Polo-Black-Stretch-Limo/Images/Fear-Of-God-Essentials-Polo-Black-Stretch-Limo/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/fear-of-god-essentials-polo-black-stretch-limo?size=S",
+      "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-Polo-Black-Stretch-Limo/Images/Fear-Of-God-Essentials-Polo-Black-Stretch-Limo/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Polo Black/Stretch Limo Jet Black",
+      "name": "Fear of God Essentials Polo Black/Stretch Limo Jet Black",
       "ProductSize": "M",
-      "StockxLink": "https://stockx.com/fear-of-god-essentials-polo-black-stretch-limo?size=M",
-      "ShoeLink": "https://images.stockx.com/360/Fear-Of-God-Essentials-Polo-Black-Stretch-Limo/Images/Fear-Of-God-Essentials-Polo-Black-Stretch-Limo/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/fear-of-god-essentials-polo-black-stretch-limo?size=M",
+      "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-Polo-Black-Stretch-Limo/Images/Fear-Of-God-Essentials-Polo-Black-Stretch-Limo/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God FOG Essentials Tank Top Jet Black",
+      "name": "Fear of God FOG Essentials Tank Top Jet Black",
       "ProductSize": "S",
-      "StockxLink": "https://stockx.com/fear-of-god-fog-essentials-tank-top-black?size=S",
-      "ShoeLink": "https://images.stockx.com/360/Fear-Of-God-Fog-Essentials-Tank-Top-Black/Images/Fear-Of-God-Fog-Essentials-Tank-Top-Black/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/fear-of-god-fog-essentials-tank-top-black?size=S",
+      "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Fog-Essentials-Tank-Top-Black/Images/Fear-Of-God-Fog-Essentials-Tank-Top-Black/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God FOG Essentials Tank Top Jet Black",
+      "name": "Fear of God FOG Essentials Tank Top Jet Black",
       "ProductSize": "M",
-      "StockxLink": "https://stockx.com/fear-of-god-fog-essentials-tank-top-black?size=M",
-      "ShoeLink": "https://images.stockx.com/360/Fear-Of-God-Fog-Essentials-Tank-Top-Black/Images/Fear-Of-God-Fog-Essentials-Tank-Top-Black/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/fear-of-god-fog-essentials-tank-top-black?size=M",
+      "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Fog-Essentials-Tank-Top-Black/Images/Fear-Of-God-Fog-Essentials-Tank-Top-Black/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Black Spread Collar Shirt",
+      "name": "Fear of God Essentials Black Spread Collar Shirt",
       "ProductSize": "S",
-      "StockxLink": "https://www.ssense.com/en-ca/men/product/solid-homme/black-spread-collar-shirt/12256921?gad_source=1&gbraid=0AAAAAD9ouUuCCVZZRjhspKI0scMrJ_mdh&gclid=Cj0KCQjwwae1BhC_ARIsAK4Jfrx3rl-DQGCow_UCMYPRxAtF167inuNvwX1zVrc0-gxmQFSE1eR3gt0aAjzcEALw_wcB",
-      "ShoeLink": "https://images.stockx.com/360/en-ca/Images/en-ca/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://www.ssense.com/en-ca/men/product/solid-homme/black-spread-collar-shirt/12256921?gad_source=1&gbraid=0AAAAAD9ouUuCCVZZRjhspKI0scMrJ_mdh&gclid=Cj0KCQjwwae1BhC_ARIsAK4Jfrx3rl-DQGCow_UCMYPRxAtF167inuNvwX1zVrc0-gxmQFSE1eR3gt0aAjzcEALw_wcB",
+      "imageUrl": "https://images.stockx.com/360/en-ca/Images/en-ca/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Bonded Hoodie Black",
+      "name": "Fear of God Essentials Bonded Hoodie Black",
       "ProductSize": "S",
-      "StockxLink": "https://stockx.com/fear-of-god-essentials-hoodie-black?size=S",
-      "ShoeLink": "https://images.stockx.com/360/Fear-Of-God-Essentials-Hoodie-Black/Images/Fear-Of-God-Essentials-Hoodie-Black/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/fear-of-god-essentials-hoodie-black?size=S",
+      "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-Hoodie-Black/Images/Fear-Of-God-Essentials-Hoodie-Black/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Bonded Hoodie Black",
+      "name": "Fear of God Essentials Bonded Hoodie Black",
       "ProductSize": "S",
-      "StockxLink": "https://stockx.com/fear-of-god-essentials-hoodie-black?size=S",
-      "ShoeLink": "https://images.stockx.com/360/Fear-Of-God-Essentials-Hoodie-Black/Images/Fear-Of-God-Essentials-Hoodie-Black/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/fear-of-god-essentials-hoodie-black?size=S",
+      "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-Hoodie-Black/Images/Fear-Of-God-Essentials-Hoodie-Black/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Bonded Hoodie Black",
+      "name": "Fear of God Essentials Bonded Hoodie Black",
       "ProductSize": "M",
-      "StockxLink": "https://stockx.com/fear-of-god-essentials-hoodie-black?size=M",
-      "ShoeLink": "https://images.stockx.com/360/Fear-Of-God-Essentials-Hoodie-Black/Images/Fear-Of-God-Essentials-Hoodie-Black/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/fear-of-god-essentials-hoodie-black?size=M",
+      "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-Hoodie-Black/Images/Fear-Of-God-Essentials-Hoodie-Black/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Relaxed Pants Black",
+      "name": "Fear of God Essentials Relaxed Pants Black",
       "ProductSize": "S",
-      "StockxLink": "https://www.ssense.com/en-ca/women/product/essentials/black-relaxed-sweatpants/14672331?gad_source=1&gbraid=0AAAAAD9ouUuH7kH75chjCqjPSzfm5zVcL&gclid=Cj0KCQjwwae1BhC_ARIsAK4Jfry6coUYByBVxlwPJp06xZIMWW1zbCQzRqzPF7X5UexZc59rLUwP5PkaAlgUEALw_wcB",
-      "ShoeLink": "https://images.stockx.com/360/en-ca/Images/en-ca/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://www.ssense.com/en-ca/women/product/essentials/black-relaxed-sweatpants/14672331?gad_source=1&gbraid=0AAAAAD9ouUuH7kH75chjCqjPSzfm5zVcL&gclid=Cj0KCQjwwae1BhC_ARIsAK4Jfry6coUYByBVxlwPJp06xZIMWW1zbCQzRqzPF7X5UexZc59rLUwP5PkaAlgUEALw_wcB",
+      "imageUrl": "https://images.stockx.com/360/en-ca/Images/en-ca/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Rib Leggings Black",
+      "name": "Fear of God Essentials Rib Leggings Black",
       "ProductSize": "M",
-      "StockxLink": "https://www.ssense.com/en-ca/women/product/essentials/black-rib-leggings/15438691?gad_source=1&gbraid=0AAAAAD9ouUuH7kH75chjCqjPSzfm5zVcL&gclid=Cj0KCQjwwae1BhC_ARIsAK4JfrxA-OC6KXREgFkISTrP3zuZ4iPE_xMsh66mKqvVo8gN_EYdUWE4l28aAt3HEALw_wcB",
-      "ShoeLink": "https://images.stockx.com/360/en-ca/Images/en-ca/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://www.ssense.com/en-ca/women/product/essentials/black-rib-leggings/15438691?gad_source=1&gbraid=0AAAAAD9ouUuH7kH75chjCqjPSzfm5zVcL&gclid=Cj0KCQjwwae1BhC_ARIsAK4JfrxA-OC6KXREgFkISTrP3zuZ4iPE_xMsh66mKqvVo8gN_EYdUWE4l28aAt3HEALw_wcB",
+      "imageUrl": "https://images.stockx.com/360/en-ca/Images/en-ca/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Denim Jacket Black Patch",
+      "name": "Fear of God Essentials Denim Jacket Black Patch",
       "ProductSize": "S",
-      "StockxLink": "https://www.ssense.com/en-ca/men/product/essentials/black-patch-denim-jacket/12959871",
-      "ShoeLink": "https://images.stockx.com/360/en-ca/Images/en-ca/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://www.ssense.com/en-ca/men/product/essentials/black-patch-denim-jacket/12959871",
+      "imageUrl": "https://images.stockx.com/360/en-ca/Images/en-ca/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Denim Jacket Black Patch",
+      "name": "Fear of God Essentials Denim Jacket Black Patch",
       "ProductSize": "M",
-      "StockxLink": "https://www.ssense.com/en-ca/men/product/essentials/black-patch-denim-jacket/12959871",
-      "ShoeLink": "https://images.stockx.com/360/en-ca/Images/en-ca/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://www.ssense.com/en-ca/men/product/essentials/black-patch-denim-jacket/12959871",
+      "imageUrl": "https://images.stockx.com/360/en-ca/Images/en-ca/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Denim Jacket Black Patch",
+      "name": "Fear of God Essentials Denim Jacket Black Patch",
       "ProductSize": "M",
-      "StockxLink": "https://www.ssense.com/en-ca/men/product/essentials/black-patch-denim-jacket/12959871",
-      "ShoeLink": "https://images.stockx.com/360/en-ca/Images/en-ca/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://www.ssense.com/en-ca/men/product/essentials/black-patch-denim-jacket/12959871",
+      "imageUrl": "https://images.stockx.com/360/en-ca/Images/en-ca/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Drawstring Jacket Black",
+      "name": "Fear of God Essentials Drawstring Jacket Black",
       "ProductSize": "S",
-      "StockxLink": "",
-      "ShoeLink": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "",
+      "imageUrl": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Drawstring Jacket Black",
+      "name": "Fear of God Essentials Drawstring Jacket Black",
       "ProductSize": "M",
-      "StockxLink": "",
-      "ShoeLink": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "",
+      "imageUrl": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Jersey Polo Concrete",
+      "name": "Fear of God Essentials Jersey Polo Concrete",
       "ProductSize": "S",
-      "StockxLink": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-jersey-polo-cement?size=S",
-      "ShoeLink": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Jersey-Polo-Cement/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Jersey-Polo-Cement/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-jersey-polo-cement?size=S",
+      "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Jersey-Polo-Cement/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Jersey-Polo-Cement/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Jersey Polo Concrete",
+      "name": "Fear of God Essentials Jersey Polo Concrete",
       "ProductSize": "M",
-      "StockxLink": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-jersey-polo-cement?size=M",
-      "ShoeLink": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Jersey-Polo-Cement/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Jersey-Polo-Cement/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-jersey-polo-cement?size=M",
+      "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Jersey-Polo-Cement/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Jersey-Polo-Cement/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Jersey Polo Concrete",
+      "name": "Fear of God Essentials Jersey Polo Concrete",
       "ProductSize": "M",
-      "StockxLink": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-jersey-polo-cement?size=M",
-      "ShoeLink": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Jersey-Polo-Cement/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Jersey-Polo-Cement/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-jersey-polo-cement?size=M",
+      "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Jersey-Polo-Cement/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Jersey-Polo-Cement/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Jersey Polo Concrete",
+      "name": "Fear of God Essentials Jersey Polo Concrete",
       "ProductSize": "L",
-      "StockxLink": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-jersey-polo-cement?size=L",
-      "ShoeLink": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Jersey-Polo-Cement/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Jersey-Polo-Cement/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-jersey-polo-cement?size=L",
+      "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Jersey-Polo-Cement/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Jersey-Polo-Cement/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Mock Neck Sweatshirt Concrete",
+      "name": "Fear of God Essentials Mock Neck Sweatshirt Concrete",
       "ProductSize": "M",
-      "StockxLink": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-mock-neck-sweatshirt-cement?size=M",
-      "ShoeLink": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Mock-Neck-Sweatshirt-Cement/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Mock-Neck-Sweatshirt-Cement/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-mock-neck-sweatshirt-cement?size=M",
+      "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Mock-Neck-Sweatshirt-Cement/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Mock-Neck-Sweatshirt-Cement/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Mock Neck Sweatshirt Concrete",
+      "name": "Fear of God Essentials Mock Neck Sweatshirt Concrete",
       "ProductSize": "M",
-      "StockxLink": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-mock-neck-sweatshirt-cement?size=M",
-      "ShoeLink": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Mock-Neck-Sweatshirt-Cement/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Mock-Neck-Sweatshirt-Cement/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-mock-neck-sweatshirt-cement?size=M",
+      "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Mock-Neck-Sweatshirt-Cement/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Mock-Neck-Sweatshirt-Cement/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Mock Neck Sweatshirt Concrete",
+      "name": "Fear of God Essentials Mock Neck Sweatshirt Concrete",
       "ProductSize": "L",
-      "StockxLink": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-mock-neck-sweatshirt-cement?size=L",
-      "ShoeLink": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Mock-Neck-Sweatshirt-Cement/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Mock-Neck-Sweatshirt-Cement/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-mock-neck-sweatshirt-cement?size=L",
+      "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Mock-Neck-Sweatshirt-Cement/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Mock-Neck-Sweatshirt-Cement/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Mock Neck Sweatshirt Concrete",
+      "name": "Fear of God Essentials Mock Neck Sweatshirt Concrete",
       "ProductSize": "L",
-      "StockxLink": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-mock-neck-sweatshirt-cement?size=L",
-      "ShoeLink": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Mock-Neck-Sweatshirt-Cement/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Mock-Neck-Sweatshirt-Cement/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-mock-neck-sweatshirt-cement?size=L",
+      "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Mock-Neck-Sweatshirt-Cement/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Mock-Neck-Sweatshirt-Cement/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Fleece Lounge Pants Concrete",
+      "name": "Fear of God Essentials Fleece Lounge Pants Concrete",
       "ProductSize": "M",
-      "StockxLink": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-fleece-lounge-pants-cement?size=M",
-      "ShoeLink": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Fleece-Lounge-Pants-Cement/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Fleece-Lounge-Pants-Cement/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-fleece-lounge-pants-cement?size=M",
+      "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Fleece-Lounge-Pants-Cement/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Fleece-Lounge-Pants-Cement/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Fleece Lounge Pants Concrete",
+      "name": "Fear of God Essentials Fleece Lounge Pants Concrete",
       "ProductSize": "L",
-      "StockxLink": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-fleece-lounge-pants-cement?size=L",
-      "ShoeLink": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Fleece-Lounge-Pants-Cement/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Fleece-Lounge-Pants-Cement/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-fleece-lounge-pants-cement?size=L",
+      "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Fleece-Lounge-Pants-Cement/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Fleece-Lounge-Pants-Cement/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Fleece Sweatshorts Concrete",
+      "name": "Fear of God Essentials Fleece Sweatshorts Concrete",
       "ProductSize": "S",
-      "StockxLink": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-fleece-sweatshorts-cement?size=S",
-      "ShoeLink": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Fleece-Sweatshorts-Cement/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Fleece-Sweatshorts-Cement/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-fleece-sweatshorts-cement?size=S",
+      "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Fleece-Sweatshorts-Cement/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Fleece-Sweatshorts-Cement/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Fleece Sweatshorts Concrete",
+      "name": "Fear of God Essentials Fleece Sweatshorts Concrete",
       "ProductSize": "M",
-      "StockxLink": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-fleece-sweatshorts-cement?size=M",
-      "ShoeLink": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Fleece-Sweatshorts-Cement/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Fleece-Sweatshorts-Cement/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-fleece-sweatshorts-cement?size=M",
+      "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Fleece-Sweatshorts-Cement/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Fleece-Sweatshorts-Cement/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Fleece Sweatshorts Concrete",
+      "name": "Fear of God Essentials Fleece Sweatshorts Concrete",
       "ProductSize": "M",
-      "StockxLink": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-fleece-sweatshorts-cement?size=M",
-      "ShoeLink": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Fleece-Sweatshorts-Cement/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Fleece-Sweatshorts-Cement/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-fleece-sweatshorts-cement?size=M",
+      "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Fleece-Sweatshorts-Cement/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Fleece-Sweatshorts-Cement/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Jersey Polo Linen",
+      "name": "Fear of God Essentials Jersey Polo Linen",
       "ProductSize": "S",
-      "StockxLink": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-jersey-polo-linen?size=S",
-      "ShoeLink": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Jersey-Polo-Linen/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Jersey-Polo-Linen/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-jersey-polo-linen?size=S",
+      "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Jersey-Polo-Linen/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Jersey-Polo-Linen/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Jersey Polo Linen",
+      "name": "Fear of God Essentials Jersey Polo Linen",
       "ProductSize": "M",
-      "StockxLink": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-jersey-polo-linen?size=M",
-      "ShoeLink": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Jersey-Polo-Linen/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Jersey-Polo-Linen/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-jersey-polo-linen?size=M",
+      "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Jersey-Polo-Linen/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Jersey-Polo-Linen/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Jersey Polo Linen",
+      "name": "Fear of God Essentials Jersey Polo Linen",
       "ProductSize": "L",
-      "StockxLink": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-jersey-polo-linen?size=L",
-      "ShoeLink": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Jersey-Polo-Linen/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Jersey-Polo-Linen/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-jersey-polo-linen?size=L",
+      "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Jersey-Polo-Linen/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Jersey-Polo-Linen/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Jersey Polo Linen",
+      "name": "Fear of God Essentials Jersey Polo Linen",
       "ProductSize": "L",
-      "StockxLink": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-jersey-polo-linen?size=L",
-      "ShoeLink": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Jersey-Polo-Linen/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Jersey-Polo-Linen/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-jersey-polo-linen?size=L",
+      "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Jersey-Polo-Linen/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Jersey-Polo-Linen/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Mock Neck Sweatshirt Linen",
+      "name": "Fear of God Essentials Mock Neck Sweatshirt Linen",
       "ProductSize": "S",
-      "StockxLink": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-mock-neck-sweatshirt-linen?size=S",
-      "ShoeLink": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Mock-Neck-Sweatshirt-Linen/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Mock-Neck-Sweatshirt-Linen/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-mock-neck-sweatshirt-linen?size=S",
+      "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Mock-Neck-Sweatshirt-Linen/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Mock-Neck-Sweatshirt-Linen/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Mock Neck Sweatshirt Linen",
+      "name": "Fear of God Essentials Mock Neck Sweatshirt Linen",
       "ProductSize": "M",
-      "StockxLink": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-mock-neck-sweatshirt-linen?size=M",
-      "ShoeLink": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Mock-Neck-Sweatshirt-Linen/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Mock-Neck-Sweatshirt-Linen/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-mock-neck-sweatshirt-linen?size=M",
+      "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Mock-Neck-Sweatshirt-Linen/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Mock-Neck-Sweatshirt-Linen/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Mock Neck Sweatshirt Linen",
+      "name": "Fear of God Essentials Mock Neck Sweatshirt Linen",
       "ProductSize": "M",
-      "StockxLink": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-mock-neck-sweatshirt-linen?size=M",
-      "ShoeLink": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Mock-Neck-Sweatshirt-Linen/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Mock-Neck-Sweatshirt-Linen/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-mock-neck-sweatshirt-linen?size=M",
+      "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Mock-Neck-Sweatshirt-Linen/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Mock-Neck-Sweatshirt-Linen/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Mock Neck Sweatshirt Linen",
+      "name": "Fear of God Essentials Mock Neck Sweatshirt Linen",
       "ProductSize": "L",
-      "StockxLink": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-mock-neck-sweatshirt-linen?size=L",
-      "ShoeLink": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Mock-Neck-Sweatshirt-Linen/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Mock-Neck-Sweatshirt-Linen/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-mock-neck-sweatshirt-linen?size=L",
+      "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Mock-Neck-Sweatshirt-Linen/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Mock-Neck-Sweatshirt-Linen/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Fleece Lounge Pants Linen",
+      "name": "Fear of God Essentials Fleece Lounge Pants Linen",
       "ProductSize": "M",
-      "StockxLink": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-fleece-lounge-pants-linen?size=M",
-      "ShoeLink": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Fleece-Lounge-Pants-Linen/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Fleece-Lounge-Pants-Linen/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-fleece-lounge-pants-linen?size=M",
+      "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Fleece-Lounge-Pants-Linen/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Fleece-Lounge-Pants-Linen/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Fleece Lounge Pants Linen",
+      "name": "Fear of God Essentials Fleece Lounge Pants Linen",
       "ProductSize": "L",
-      "StockxLink": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-fleece-lounge-pants-linen?size=L",
-      "ShoeLink": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Fleece-Lounge-Pants-Linen/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Fleece-Lounge-Pants-Linen/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-fleece-lounge-pants-linen?size=L",
+      "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Fleece-Lounge-Pants-Linen/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Fleece-Lounge-Pants-Linen/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Fleece Sweatshorts Linen",
+      "name": "Fear of God Essentials Fleece Sweatshorts Linen",
       "ProductSize": "S",
-      "StockxLink": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-fleece-sweatshorts-linen?size=S",
-      "ShoeLink": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Fleece-Sweatshorts-Linen/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Fleece-Sweatshorts-Linen/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-fleece-sweatshorts-linen?size=S",
+      "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Fleece-Sweatshorts-Linen/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Fleece-Sweatshorts-Linen/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Fleece Sweatshorts Linen",
+      "name": "Fear of God Essentials Fleece Sweatshorts Linen",
       "ProductSize": "M",
-      "StockxLink": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-fleece-sweatshorts-linen?size=M",
-      "ShoeLink": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Fleece-Sweatshorts-Linen/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Fleece-Sweatshorts-Linen/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-fleece-sweatshorts-linen?size=M",
+      "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Fleece-Sweatshorts-Linen/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Fleece-Sweatshorts-Linen/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Fleece Sweatshorts Linen",
+      "name": "Fear of God Essentials Fleece Sweatshorts Linen",
       "ProductSize": "M",
-      "StockxLink": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-fleece-sweatshorts-linen?size=M",
-      "ShoeLink": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Fleece-Sweatshorts-Linen/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Fleece-Sweatshorts-Linen/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-fleece-sweatshorts-linen?size=M",
+      "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Fleece-Sweatshorts-Linen/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Fleece-Sweatshorts-Linen/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Hoodie Blue Raglan",
+      "name": "Fear of God Essentials Hoodie Blue Raglan",
       "ProductSize": "M",
-      "StockxLink": "https://stockx.com/fear-of-god-essentials-hoodie-sycamore?size=M",
-      "ShoeLink": "https://images.stockx.com/360/Fear-Of-God-Essentials-Hoodie-Sycamore/Images/Fear-Of-God-Essentials-Hoodie-Sycamore/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/fear-of-god-essentials-hoodie-sycamore?size=M",
+      "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-Hoodie-Sycamore/Images/Fear-Of-God-Essentials-Hoodie-Sycamore/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Sweatshirt Blue Raglan",
+      "name": "Fear of God Essentials Sweatshirt Blue Raglan",
       "ProductSize": "S",
-      "StockxLink": "https://www.goat.com/en-ca/apparel/fear-of-god-essentials-crewneck-sweatshirt-sycamore-192bt222041f?sizing=xs&utm_source=google_ads&utm_medium=cpc&utm_campaign=20931649905&utm_content=&gad_source=1&gbraid=0AAAAADQ3c8iGXUFbcmdiabT2H84WTs4tJ&gclid=Cj0KCQjwwae1BhC_ARIsAK4JfrxoFvDQkSB08fYEd0IpV8rCcXMY2-wXqYAU4L8E6lts_C2JgFk9ljsaAhTCEALw_wcB",
-      "ShoeLink": "https://images.stockx.com/360/en-ca/Images/en-ca/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://www.goat.com/en-ca/apparel/fear-of-god-essentials-crewneck-sweatshirt-sycamore-192bt222041f?sizing=xs&utm_source=google_ads&utm_medium=cpc&utm_campaign=20931649905&utm_content=&gad_source=1&gbraid=0AAAAADQ3c8iGXUFbcmdiabT2H84WTs4tJ&gclid=Cj0KCQjwwae1BhC_ARIsAK4JfrxoFvDQkSB08fYEd0IpV8rCcXMY2-wXqYAU4L8E6lts_C2JgFk9ljsaAhTCEALw_wcB",
+      "imageUrl": "https://images.stockx.com/360/en-ca/Images/en-ca/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Sweatshirt Blue Raglan",
+      "name": "Fear of God Essentials Sweatshirt Blue Raglan",
       "ProductSize": "M",
-      "StockxLink": "https://www.goat.com/en-ca/apparel/fear-of-god-essentials-crewneck-sweatshirt-sycamore-192bt222041f?sizing=xs&utm_source=google_ads&utm_medium=cpc&utm_campaign=20931649905&utm_content=&gad_source=1&gbraid=0AAAAADQ3c8iGXUFbcmdiabT2H84WTs4tJ&gclid=Cj0KCQjwwae1BhC_ARIsAK4JfrxoFvDQkSB08fYEd0IpV8rCcXMY2-wXqYAU4L8E6lts_C2JgFk9ljsaAhTCEALw_wcB",
-      "ShoeLink": "https://images.stockx.com/360/en-ca/Images/en-ca/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://www.goat.com/en-ca/apparel/fear-of-god-essentials-crewneck-sweatshirt-sycamore-192bt222041f?sizing=xs&utm_source=google_ads&utm_medium=cpc&utm_campaign=20931649905&utm_content=&gad_source=1&gbraid=0AAAAADQ3c8iGXUFbcmdiabT2H84WTs4tJ&gclid=Cj0KCQjwwae1BhC_ARIsAK4JfrxoFvDQkSB08fYEd0IpV8rCcXMY2-wXqYAU4L8E6lts_C2JgFk9ljsaAhTCEALw_wcB",
+      "imageUrl": "https://images.stockx.com/360/en-ca/Images/en-ca/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Sweatshirt Blue Raglan",
+      "name": "Fear of God Essentials Sweatshirt Blue Raglan",
       "ProductSize": "M",
-      "StockxLink": "https://www.goat.com/en-ca/apparel/fear-of-god-essentials-crewneck-sweatshirt-sycamore-192bt222041f?sizing=xs&utm_source=google_ads&utm_medium=cpc&utm_campaign=20931649905&utm_content=&gad_source=1&gbraid=0AAAAADQ3c8iGXUFbcmdiabT2H84WTs4tJ&gclid=Cj0KCQjwwae1BhC_ARIsAK4JfrxoFvDQkSB08fYEd0IpV8rCcXMY2-wXqYAU4L8E6lts_C2JgFk9ljsaAhTCEALw_wcB",
-      "ShoeLink": "https://images.stockx.com/360/en-ca/Images/en-ca/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://www.goat.com/en-ca/apparel/fear-of-god-essentials-crewneck-sweatshirt-sycamore-192bt222041f?sizing=xs&utm_source=google_ads&utm_medium=cpc&utm_campaign=20931649905&utm_content=&gad_source=1&gbraid=0AAAAADQ3c8iGXUFbcmdiabT2H84WTs4tJ&gclid=Cj0KCQjwwae1BhC_ARIsAK4JfrxoFvDQkSB08fYEd0IpV8rCcXMY2-wXqYAU4L8E6lts_C2JgFk9ljsaAhTCEALw_wcB",
+      "imageUrl": "https://images.stockx.com/360/en-ca/Images/en-ca/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Sweatshort Sycamore",
+      "name": "Fear of God Essentials Sweatshort Sycamore",
       "ProductSize": "M",
-      "StockxLink": "https://stockx.com/fear-of-god-essentials-sweatshort-sycamore?size=M",
-      "ShoeLink": "https://images.stockx.com/360/Fear-Of-God-Essentials-Sweatshort-Sycamore/Images/Fear-Of-God-Essentials-Sweatshort-Sycamore/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/fear-of-god-essentials-sweatshort-sycamore?size=M",
+      "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-Sweatshort-Sycamore/Images/Fear-Of-God-Essentials-Sweatshort-Sycamore/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Sweatshort Sycamore",
+      "name": "Fear of God Essentials Sweatshort Sycamore",
       "ProductSize": "M",
-      "StockxLink": "https://stockx.com/fear-of-god-essentials-sweatshort-sycamore?size=M",
-      "ShoeLink": "https://images.stockx.com/360/Fear-Of-God-Essentials-Sweatshort-Sycamore/Images/Fear-Of-God-Essentials-Sweatshort-Sycamore/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://stockx.com/fear-of-god-essentials-sweatshort-sycamore?size=M",
+      "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-Sweatshort-Sycamore/Images/Fear-Of-God-Essentials-Sweatshort-Sycamore/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Sweatshirt Gray Raglan",
+      "name": "Fear of God Essentials Sweatshirt Gray Raglan",
       "ProductSize": "S",
-      "StockxLink": "https://www.ssense.com/en-ca/men/product/essentials/gray-raglan-sweatshirt/11337971?gad_source=1&gbraid=0AAAAAD9ouUuH7kH75chjCqjPSzfm5zVcL&gclid=Cj0KCQjwwae1BhC_ARIsAK4JfrwfNnDhT_cwE9OX2od0ZTWHHRvxNSX7UCgSpP3OjS1aUxUcFCkQiq0aAvDFEALw_wcB",
-      "ShoeLink": "https://images.stockx.com/360/en-ca/Images/en-ca/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://www.ssense.com/en-ca/men/product/essentials/gray-raglan-sweatshirt/11337971?gad_source=1&gbraid=0AAAAAD9ouUuH7kH75chjCqjPSzfm5zVcL&gclid=Cj0KCQjwwae1BhC_ARIsAK4JfrwfNnDhT_cwE9OX2od0ZTWHHRvxNSX7UCgSpP3OjS1aUxUcFCkQiq0aAvDFEALw_wcB",
+      "imageUrl": "https://images.stockx.com/360/en-ca/Images/en-ca/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Sweatshirt Gray Raglan",
+      "name": "Fear of God Essentials Sweatshirt Gray Raglan",
       "ProductSize": "S",
-      "StockxLink": "https://www.ssense.com/en-ca/men/product/essentials/gray-raglan-sweatshirt/11337971?gad_source=1&gbraid=0AAAAAD9ouUuH7kH75chjCqjPSzfm5zVcL&gclid=Cj0KCQjwwae1BhC_ARIsAK4JfrwfNnDhT_cwE9OX2od0ZTWHHRvxNSX7UCgSpP3OjS1aUxUcFCkQiq0aAvDFEALw_wcB",
-      "ShoeLink": "https://images.stockx.com/360/en-ca/Images/en-ca/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://www.ssense.com/en-ca/men/product/essentials/gray-raglan-sweatshirt/11337971?gad_source=1&gbraid=0AAAAAD9ouUuH7kH75chjCqjPSzfm5zVcL&gclid=Cj0KCQjwwae1BhC_ARIsAK4JfrwfNnDhT_cwE9OX2od0ZTWHHRvxNSX7UCgSpP3OjS1aUxUcFCkQiq0aAvDFEALw_wcB",
+      "imageUrl": "https://images.stockx.com/360/en-ca/Images/en-ca/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Sweatshirt Gray Raglan",
+      "name": "Fear of God Essentials Sweatshirt Gray Raglan",
       "ProductSize": "S",
-      "StockxLink": "https://www.ssense.com/en-ca/men/product/essentials/gray-raglan-sweatshirt/11337971?gad_source=1&gbraid=0AAAAAD9ouUuH7kH75chjCqjPSzfm5zVcL&gclid=Cj0KCQjwwae1BhC_ARIsAK4JfrwfNnDhT_cwE9OX2od0ZTWHHRvxNSX7UCgSpP3OjS1aUxUcFCkQiq0aAvDFEALw_wcB",
-      "ShoeLink": "https://images.stockx.com/360/en-ca/Images/en-ca/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://www.ssense.com/en-ca/men/product/essentials/gray-raglan-sweatshirt/11337971?gad_source=1&gbraid=0AAAAAD9ouUuH7kH75chjCqjPSzfm5zVcL&gclid=Cj0KCQjwwae1BhC_ARIsAK4JfrwfNnDhT_cwE9OX2od0ZTWHHRvxNSX7UCgSpP3OjS1aUxUcFCkQiq0aAvDFEALw_wcB",
+      "imageUrl": "https://images.stockx.com/360/en-ca/Images/en-ca/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Sweatshirt Gray Raglan",
+      "name": "Fear of God Essentials Sweatshirt Gray Raglan",
       "ProductSize": "M",
-      "StockxLink": "https://www.ssense.com/en-ca/men/product/essentials/gray-raglan-sweatshirt/11337971?gad_source=1&gbraid=0AAAAAD9ouUuH7kH75chjCqjPSzfm5zVcL&gclid=Cj0KCQjwwae1BhC_ARIsAK4JfrwfNnDhT_cwE9OX2od0ZTWHHRvxNSX7UCgSpP3OjS1aUxUcFCkQiq0aAvDFEALw_wcB",
-      "ShoeLink": "https://images.stockx.com/360/en-ca/Images/en-ca/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://www.ssense.com/en-ca/men/product/essentials/gray-raglan-sweatshirt/11337971?gad_source=1&gbraid=0AAAAAD9ouUuH7kH75chjCqjPSzfm5zVcL&gclid=Cj0KCQjwwae1BhC_ARIsAK4JfrwfNnDhT_cwE9OX2od0ZTWHHRvxNSX7UCgSpP3OjS1aUxUcFCkQiq0aAvDFEALw_wcB",
+      "imageUrl": "https://images.stockx.com/360/en-ca/Images/en-ca/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Sweatshirt Gray Raglan",
+      "name": "Fear of God Essentials Sweatshirt Gray Raglan",
       "ProductSize": "M",
-      "StockxLink": "https://www.ssense.com/en-ca/men/product/essentials/gray-raglan-sweatshirt/11337971?gad_source=1&gbraid=0AAAAAD9ouUuH7kH75chjCqjPSzfm5zVcL&gclid=Cj0KCQjwwae1BhC_ARIsAK4JfrwfNnDhT_cwE9OX2od0ZTWHHRvxNSX7UCgSpP3OjS1aUxUcFCkQiq0aAvDFEALw_wcB",
-      "ShoeLink": "https://images.stockx.com/360/en-ca/Images/en-ca/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://www.ssense.com/en-ca/men/product/essentials/gray-raglan-sweatshirt/11337971?gad_source=1&gbraid=0AAAAAD9ouUuH7kH75chjCqjPSzfm5zVcL&gclid=Cj0KCQjwwae1BhC_ARIsAK4JfrwfNnDhT_cwE9OX2od0ZTWHHRvxNSX7UCgSpP3OjS1aUxUcFCkQiq0aAvDFEALw_wcB",
+      "imageUrl": "https://images.stockx.com/360/en-ca/Images/en-ca/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": " Fear of God Essentials Drawstring Sweatpants Gray",
+      "name": " Fear of God Essentials Drawstring Sweatpants Gray",
       "ProductSize": "S",
-      "StockxLink": "https://www.ssense.com/en-ca/men/product/essentials/gray-drawstring-sweatpants/14617191?gad_source=1&gbraid=0AAAAAD9ouUuH7kH75chjCqjPSzfm5zVcL&gclid=Cj0KCQjwwae1BhC_ARIsAK4JfrzZrCvQP-8ACjw9qlRvbLung8mDvXjz_RLGHkczOWOMerIq3beFH78aAptuEALw_wcB",
-      "ShoeLink": "https://images.stockx.com/360/en-ca/Images/en-ca/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://www.ssense.com/en-ca/men/product/essentials/gray-drawstring-sweatpants/14617191?gad_source=1&gbraid=0AAAAAD9ouUuH7kH75chjCqjPSzfm5zVcL&gclid=Cj0KCQjwwae1BhC_ARIsAK4JfrzZrCvQP-8ACjw9qlRvbLung8mDvXjz_RLGHkczOWOMerIq3beFH78aAptuEALw_wcB",
+      "imageUrl": "https://images.stockx.com/360/en-ca/Images/en-ca/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": " Fear of God Essentials Drawstring Sweatpants Gray",
+      "name": " Fear of God Essentials Drawstring Sweatpants Gray",
       "ProductSize": "M",
-      "StockxLink": "https://www.ssense.com/en-ca/men/product/essentials/gray-drawstring-sweatpants/14617191?gad_source=1&gbraid=0AAAAAD9ouUuH7kH75chjCqjPSzfm5zVcL&gclid=Cj0KCQjwwae1BhC_ARIsAK4JfrzZrCvQP-8ACjw9qlRvbLung8mDvXjz_RLGHkczOWOMerIq3beFH78aAptuEALw_wcB",
-      "ShoeLink": "https://images.stockx.com/360/en-ca/Images/en-ca/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://www.ssense.com/en-ca/men/product/essentials/gray-drawstring-sweatpants/14617191?gad_source=1&gbraid=0AAAAAD9ouUuH7kH75chjCqjPSzfm5zVcL&gclid=Cj0KCQjwwae1BhC_ARIsAK4JfrzZrCvQP-8ACjw9qlRvbLung8mDvXjz_RLGHkczOWOMerIq3beFH78aAptuEALw_wcB",
+      "imageUrl": "https://images.stockx.com/360/en-ca/Images/en-ca/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Drawstring Shorts Gray",
+      "name": "Fear of God Essentials Drawstring Shorts Gray",
       "ProductSize": "S",
-      "StockxLink": "https://www.ssense.com/en-ca/men/product/essentials/gray-drawstring-shorts/15440761?gad_source=1&gbraid=0AAAAAD9ouUuH7kH75chjCqjPSzfm5zVcL&gclid=Cj0KCQjwwae1BhC_ARIsAK4JfryKLaxv0zyqTLYd4OElXjae4j3nxp2YqSaN2E3RTl4cjrBEqnRZW6UaAqZMEALw_wcB",
-      "ShoeLink": "https://images.stockx.com/360/en-ca/Images/en-ca/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://www.ssense.com/en-ca/men/product/essentials/gray-drawstring-shorts/15440761?gad_source=1&gbraid=0AAAAAD9ouUuH7kH75chjCqjPSzfm5zVcL&gclid=Cj0KCQjwwae1BhC_ARIsAK4JfryKLaxv0zyqTLYd4OElXjae4j3nxp2YqSaN2E3RTl4cjrBEqnRZW6UaAqZMEALw_wcB",
+      "imageUrl": "https://images.stockx.com/360/en-ca/Images/en-ca/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Drawstring Shorts Gray",
+      "name": "Fear of God Essentials Drawstring Shorts Gray",
       "ProductSize": "S",
-      "StockxLink": "https://www.ssense.com/en-ca/men/product/essentials/gray-drawstring-shorts/15440761?gad_source=1&gbraid=0AAAAAD9ouUuH7kH75chjCqjPSzfm5zVcL&gclid=Cj0KCQjwwae1BhC_ARIsAK4JfryKLaxv0zyqTLYd4OElXjae4j3nxp2YqSaN2E3RTl4cjrBEqnRZW6UaAqZMEALw_wcB",
-      "ShoeLink": "https://images.stockx.com/360/en-ca/Images/en-ca/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://www.ssense.com/en-ca/men/product/essentials/gray-drawstring-shorts/15440761?gad_source=1&gbraid=0AAAAAD9ouUuH7kH75chjCqjPSzfm5zVcL&gclid=Cj0KCQjwwae1BhC_ARIsAK4JfryKLaxv0zyqTLYd4OElXjae4j3nxp2YqSaN2E3RTl4cjrBEqnRZW6UaAqZMEALw_wcB",
+      "imageUrl": "https://images.stockx.com/360/en-ca/Images/en-ca/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Drawstring Shorts Gray",
+      "name": "Fear of God Essentials Drawstring Shorts Gray",
       "ProductSize": "M",
-      "StockxLink": "https://www.ssense.com/en-ca/men/product/essentials/gray-drawstring-shorts/15440761?gad_source=1&gbraid=0AAAAAD9ouUuH7kH75chjCqjPSzfm5zVcL&gclid=Cj0KCQjwwae1BhC_ARIsAK4JfryKLaxv0zyqTLYd4OElXjae4j3nxp2YqSaN2E3RTl4cjrBEqnRZW6UaAqZMEALw_wcB",
-      "ShoeLink": "https://images.stockx.com/360/en-ca/Images/en-ca/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://www.ssense.com/en-ca/men/product/essentials/gray-drawstring-shorts/15440761?gad_source=1&gbraid=0AAAAAD9ouUuH7kH75chjCqjPSzfm5zVcL&gclid=Cj0KCQjwwae1BhC_ARIsAK4JfryKLaxv0zyqTLYd4OElXjae4j3nxp2YqSaN2E3RTl4cjrBEqnRZW6UaAqZMEALw_wcB",
+      "imageUrl": "https://images.stockx.com/360/en-ca/Images/en-ca/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Drawstring Shorts Gray",
+      "name": "Fear of God Essentials Drawstring Shorts Gray",
       "ProductSize": "M",
-      "StockxLink": "https://www.ssense.com/en-ca/men/product/essentials/gray-drawstring-shorts/15440761?gad_source=1&gbraid=0AAAAAD9ouUuH7kH75chjCqjPSzfm5zVcL&gclid=Cj0KCQjwwae1BhC_ARIsAK4JfryKLaxv0zyqTLYd4OElXjae4j3nxp2YqSaN2E3RTl4cjrBEqnRZW6UaAqZMEALw_wcB",
-      "ShoeLink": "https://images.stockx.com/360/en-ca/Images/en-ca/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://www.ssense.com/en-ca/men/product/essentials/gray-drawstring-shorts/15440761?gad_source=1&gbraid=0AAAAAD9ouUuH7kH75chjCqjPSzfm5zVcL&gclid=Cj0KCQjwwae1BhC_ARIsAK4JfryKLaxv0zyqTLYd4OElXjae4j3nxp2YqSaN2E3RTl4cjrBEqnRZW6UaAqZMEALw_wcB",
+      "imageUrl": "https://images.stockx.com/360/en-ca/Images/en-ca/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Sweatshirt Purple Raglan",
+      "name": "Fear of God Essentials Sweatshirt Purple Raglan",
       "ProductSize": "S",
-      "StockxLink": "https://www.goat.com/en-ca/apparel/fear-of-god-essentials-crewneck-sweatshirt-plum-192bt222045f?sizing=l&utm_source=google_ads&utm_medium=cpc&utm_campaign=20931649905&utm_content=&gad_source=1&gbraid=0AAAAADQ3c8iGXUFbcmdiabT2H84WTs4tJ&gclid=Cj0KCQjwwae1BhC_ARIsAK4JfrzkOJybkoYc5uPPXoqXts5iLHYoZba0NF2DDFCUucZ7r0roBw18364aAh9-EALw_wcB",
-      "ShoeLink": "https://images.stockx.com/360/en-ca/Images/en-ca/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://www.goat.com/en-ca/apparel/fear-of-god-essentials-crewneck-sweatshirt-plum-192bt222045f?sizing=l&utm_source=google_ads&utm_medium=cpc&utm_campaign=20931649905&utm_content=&gad_source=1&gbraid=0AAAAADQ3c8iGXUFbcmdiabT2H84WTs4tJ&gclid=Cj0KCQjwwae1BhC_ARIsAK4JfrzkOJybkoYc5uPPXoqXts5iLHYoZba0NF2DDFCUucZ7r0roBw18364aAh9-EALw_wcB",
+      "imageUrl": "https://images.stockx.com/360/en-ca/Images/en-ca/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Fleece Lounge Pants Pistachio",
+      "name": "Fear of God Essentials Fleece Lounge Pants Pistachio",
       "ProductSize": "L",
-      "StockxLink": "https://www.goat.com/en-ca/apparel/fear-of-god-essentials-sweatpant-pistachio-130su212000f?sizing=m&utm_source=google_ads&utm_medium=cpc&utm_campaign=20931649905&utm_content=&gad_source=1&gbraid=0AAAAADQ3c8iGXUFbcmdiabT2H84WTs4tJ&gclid=Cj0KCQjwwae1BhC_ARIsAK4Jfryyn2BfZgASIrmitwWFNoAGq9NKkHaiyu0XD5Ai_CIyR4ArTbiGV9QaAib_EALw_wcB",
-      "ShoeLink": "https://images.stockx.com/360/en-ca/Images/en-ca/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "https://www.goat.com/en-ca/apparel/fear-of-god-essentials-sweatpant-pistachio-130su212000f?sizing=m&utm_source=google_ads&utm_medium=cpc&utm_campaign=20931649905&utm_content=&gad_source=1&gbraid=0AAAAADQ3c8iGXUFbcmdiabT2H84WTs4tJ&gclid=Cj0KCQjwwae1BhC_ARIsAK4Jfryyn2BfZgASIrmitwWFNoAGq9NKkHaiyu0XD5Ai_CIyR4ArTbiGV9QaAib_EALw_wcB",
+      "imageUrl": "https://images.stockx.com/360/en-ca/Images/en-ca/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Lounge Pants Harvest",
+      "name": "Fear of God Essentials Lounge Pants Harvest",
       "ProductSize": "M",
-      "StockxLink": "",
-      "ShoeLink": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "",
+      "imageUrl": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Lounge Pants Harvest",
+      "name": "Fear of God Essentials Lounge Pants Harvest",
       "ProductSize": "L",
-      "StockxLink": "",
-      "ShoeLink": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "",
+      "imageUrl": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Track Lounge Pants Beige",
+      "name": "Fear of God Essentials Track Lounge Pants Beige",
       "ProductSize": "M",
-      "StockxLink": "",
-      "ShoeLink": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "",
+      "imageUrl": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Track Lounge Pants Beige",
+      "name": "Fear of God Essentials Track Lounge Pants Beige",
       "ProductSize": "M",
-      "StockxLink": "",
-      "ShoeLink": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "",
+      "imageUrl": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Track Lounge Pants Beige",
+      "name": "Fear of God Essentials Track Lounge Pants Beige",
       "ProductSize": "L",
-      "StockxLink": "",
-      "ShoeLink": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "",
+      "imageUrl": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Volley Shorts Beige",
+      "name": "Fear of God Essentials Volley Shorts Beige",
       "ProductSize": "S",
-      "StockxLink": "",
-      "ShoeLink": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "",
+      "imageUrl": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Volley Shorts Beige",
+      "name": "Fear of God Essentials Volley Shorts Beige",
       "ProductSize": "M",
-      "StockxLink": "",
-      "ShoeLink": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "",
+      "imageUrl": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Volley Shorts Beige",
+      "name": "Fear of God Essentials Volley Shorts Beige",
       "ProductSize": "M",
-      "StockxLink": "",
-      "ShoeLink": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "",
+      "imageUrl": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Volley Shorts Beige",
+      "name": "Fear of God Essentials Volley Shorts Beige",
       "ProductSize": "L",
-      "StockxLink": "",
-      "ShoeLink": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "",
+      "imageUrl": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Half-Zip Track Jacket Beige",
+      "name": "Fear of God Essentials Half-Zip Track Jacket Beige",
       "ProductSize": "S",
-      "StockxLink": "",
-      "ShoeLink": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "",
+      "imageUrl": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Half-Zip Track Jacket Beige",
+      "name": "Fear of God Essentials Half-Zip Track Jacket Beige",
       "ProductSize": "M",
-      "StockxLink": "",
-      "ShoeLink": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "",
+      "imageUrl": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Half-Zip Track Jacket Beige",
+      "name": "Fear of God Essentials Half-Zip Track Jacket Beige",
       "ProductSize": "M",
-      "StockxLink": "",
-      "ShoeLink": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "",
+      "imageUrl": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Half-Zip Track Jacket Beige",
+      "name": "Fear of God Essentials Half-Zip Track Jacket Beige",
       "ProductSize": "L",
-      "StockxLink": "",
-      "ShoeLink": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "",
+      "imageUrl": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Track Lounge Pants Green",
+      "name": "Fear of God Essentials Track Lounge Pants Green",
       "ProductSize": "S",
-      "StockxLink": "",
-      "ShoeLink": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "",
+      "imageUrl": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Track Lounge Pants Green",
+      "name": "Fear of God Essentials Track Lounge Pants Green",
       "ProductSize": "M",
-      "StockxLink": "",
-      "ShoeLink": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "",
+      "imageUrl": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Track Lounge Pants Green",
+      "name": "Fear of God Essentials Track Lounge Pants Green",
       "ProductSize": "M",
-      "StockxLink": "",
-      "ShoeLink": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "",
+      "imageUrl": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Track Lounge Pants Green",
+      "name": "Fear of God Essentials Track Lounge Pants Green",
       "ProductSize": "L",
-      "StockxLink": "",
-      "ShoeLink": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "",
+      "imageUrl": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Volley Shorts Green",
+      "name": "Fear of God Essentials Volley Shorts Green",
       "ProductSize": "S",
-      "StockxLink": "",
-      "ShoeLink": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "",
+      "imageUrl": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Volley Shorts Green",
+      "name": "Fear of God Essentials Volley Shorts Green",
       "ProductSize": "M",
-      "StockxLink": "",
-      "ShoeLink": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "",
+      "imageUrl": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Volley Shorts Green",
+      "name": "Fear of God Essentials Volley Shorts Green",
       "ProductSize": "M",
-      "StockxLink": "",
-      "ShoeLink": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "",
+      "imageUrl": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Volley Shorts Green",
+      "name": "Fear of God Essentials Volley Shorts Green",
       "ProductSize": "L",
-      "StockxLink": "",
-      "ShoeLink": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "",
+      "imageUrl": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Half-Zip Track Jacket Green",
+      "name": "Fear of God Essentials Half-Zip Track Jacket Green",
       "ProductSize": "S",
-      "StockxLink": "",
-      "ShoeLink": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "",
+      "imageUrl": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Half-Zip Track Jacket Green",
+      "name": "Fear of God Essentials Half-Zip Track Jacket Green",
       "ProductSize": "M",
-      "StockxLink": "",
-      "ShoeLink": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "",
+      "imageUrl": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Half-Zip Track Jacket Green",
+      "name": "Fear of God Essentials Half-Zip Track Jacket Green",
       "ProductSize": "M",
-      "StockxLink": "",
-      "ShoeLink": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "",
+      "imageUrl": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     },
     {
-      "ProductName": "Fear of God Essentials Half-Zip Track Jacket Green",
+      "name": "Fear of God Essentials Half-Zip Track Jacket Green",
       "ProductSize": "L",
-      "StockxLink": "",
-      "ShoeLink": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at="
+      "productUrl": "",
+      "imageUrl": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "ImageLinkWorks": false
     }
   ]
 }

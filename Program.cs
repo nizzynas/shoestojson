@@ -3,15 +3,18 @@ using System.Collections.Generic;
 using System.IO;
 using OfficeOpenXml;
 using Newtonsoft.Json;
-using System.Linq; 
+using System.Linq;
+using System.Net;
+using System.Net.Sockets;
 
 class Program
 {
-    static void Main()
+    static async Task Main()
     {
         // Define the path to the Excel file
         string filePath = @"..\..\..\stock.xlsx";
 
+        int completedProduct = 0;
         // Initialise a list to hold the data
         List<StockItem> stockItems = new List<StockItem>();
         // Configure EPPlus to read the Excel file
@@ -33,7 +36,8 @@ class Program
                 string column1Value = worksheet.Cells[row, 1].Text; // First column
                 string column2Value = worksheet.Cells[row, 2].Text; // Second column
                 string hyperlink = worksheet.Cells[row, 1].Hyperlink?.AbsoluteUri ?? string.Empty; // Extract hyperlink if available
-           
+                
+        
 
                 if (!string.IsNullOrWhiteSpace(column1Value) && string.IsNullOrWhiteSpace(column2Value))
                 {
@@ -65,29 +69,78 @@ class Program
                     string essentialsFOGLink = $"https://images.stockx.com/images/vertical/Fear-Of-God-Essentials-Hoodie-Black_1.jpg?fit=fill&bg=FFFFFF&w=396&h=504&auto=format%2Ccompress&dpr=1&q=57";
                     // https://images.stockx.com/images/Fear-of-God-Essentials-1977-Crewneck-Iron.jpg?fit=fill&bg=FFFFFF&w=576&h=384&auto=format%2Ccompress&dpr=1&trim=color&updated_at=1646952565&q=57
 
-                    // Extract and format the product name from the hyperlink
+                    bool success = await ValidateUrlWithHttpClient(shoeImageLink);
+
+                   // Console.WriteLine($"{success}");
 
                     // Create a StockItem object and add it to the list for the current brand
                     StockItem stockItem = new StockItem
                     {
-                        ProductName = column1Value,
+                        name = column1Value,
                         ProductSize = column2Value,
-                        StockxLink = hyperlink,
-                        ShoeLink = shoeImageLink
+                        productUrl = hyperlink,
+                        imageUrl = shoeImageLink,
+                        ImageLinkWorks = success
                     };
+
+                    completedProduct++;
+                    DisplayProgressBar(completedProduct, worksheet.Cells.Count());
+                    
 
                     brandGroupedStockItems[currentBrand].Add(stockItem);
                 }
 
-                //  Console.WriteLine($"Row {row}: Column1 = {column1Value}, Column2 = {column2Value}, Hyperlink = {hyperlink}");
+               //Console.WriteLine($"Row {row}: Column1 = {column1Value}, Column2 = {column2Value}, Hyperlink = {hyperlink}");
             }
         }
 
         // Convert the list of stock items to JSON
         string jsonResult = JsonConvert.SerializeObject(brandGroupedStockItems, Formatting.Indented);
+
         string outputPath = @"..\..\..\stock_items.txt"; // Specify the path to your desired output file
+        Console.WriteLine(jsonResult);
+
         File.WriteAllText(outputPath, jsonResult);
     }
+
+
+
+      public static void DisplayProgressBar(int current, int total)
+        {
+            Console.CursorLeft = 0;
+            Console.Write("[");
+            int progressWidth = Console.WindowWidth - 30; // Adjust width if needed
+            int position = (int)((double)current / total * progressWidth);
+
+            Console.Write(new string('=', position));
+            Console.Write(new string(' ', progressWidth - position));
+            Console.Write($"] {current * 100 / total}% ({current}/{total})");
+        }
+
+
+    public static async Task<bool> ValidateUrlWithHttpClient(string url)
+    {
+        using var client = new HttpClient();
+        try
+        {
+            var response = await client.SendAsync(new HttpRequestMessage(HttpMethod.Head, url));
+
+            return response.IsSuccessStatusCode;
+        }
+        catch (HttpRequestException e)
+            when (e.InnerException is SocketException
+            { SocketErrorCode: SocketError.HostNotFound })
+        {
+            return false;
+        }
+        catch (HttpRequestException e)
+            when (e.StatusCode.HasValue && (int)e.StatusCode.Value > 500)
+        {
+            return true;
+        }
+    }
+
+
 
 
     static string ExtractFormattedProductName(string url)
@@ -108,6 +161,8 @@ class Program
                 {
                     return CapitalizeAfterFirstWord(productName);
                 }
+
+
                 // Add additional rules if needed
                 return productName;
             }
@@ -164,10 +219,11 @@ class Program
 
 public class StockItem
 {
-    public string? ProductName { get; set; }
+    public string? name { get; set; }
     public string? ProductSize { get; set; }
-    public string? StockxLink { get; set; }
-    public string? ShoeLink { get; set; }
+    public string? productUrl { get; set; }
+    public string? imageUrl { get; set; }
+    public bool? ImageLinkWorks { get; set; }
 }
 
 public class StockByBrand
