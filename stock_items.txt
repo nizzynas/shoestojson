@@ -1,1085 +1,1494 @@
 {
+  "JORDAN": [
+    {
+      "name": "Jordan 11 Retro Cool Grey (2021) ",
+      "productSize": "9.5",
+      "productUrl": "https://stockx.com/air-jordan-11-retro-cool-grey-2021",
+      "imageUrl": "https://images.stockx.com/360/air-jordan-11-retro-cool-grey-2021/Images/air-jordan-11-retro-cool-grey-2021/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shoes",
+      "priceAmount": "$466.80",
+      "ImageLinkWorks": false
+    },
+    {
+      "name": "Jordan 13 Retro Court Purple",
+      "productSize": "8.5",
+      "productUrl": "https://stockx.com/air-jordan-13-retro-court-purple",
+      "imageUrl": "https://images.stockx.com/360/air-jordan-13-retro-court-purple/Images/air-jordan-13-retro-court-purple/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shoes",
+      "priceAmount": "$394.37",
+      "ImageLinkWorks": false
+    },
+    {
+      "name": "Jordan 13 Retro Del Sol",
+      "productSize": "9.5",
+      "productUrl": "https://stockx.com/air-jordan-13-retro-del-sol",
+      "imageUrl": "https://images.stockx.com/360/air-jordan-13-retro-del-sol/Images/air-jordan-13-retro-del-sol/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shoes",
+      "priceAmount": "$394.37",
+      "ImageLinkWorks": false
+    },
+    {
+      "name": "Jordan 12 Retro Playoffs (2022)",
+      "productSize": "9.5",
+      "productUrl": "https://stockx.com/air-jordan-12-retro-playoffs-2022",
+      "imageUrl": "https://images.stockx.com/360/air-jordan-12-retro-playoffs-2022/Images/air-jordan-12-retro-playoffs-2022/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shoes",
+      "priceAmount": "$418.52",
+      "ImageLinkWorks": false
+    },
+    {
+      "name": "Jordan 4 Retro Military Black",
+      "productSize": "9.5",
+      "productUrl": "https://stockx.com/air-jordan-4-retro-military-black",
+      "imageUrl": "https://images.stockx.com/360/air-jordan-4-retro-military-black/Images/air-jordan-4-retro-military-black/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shoes",
+      "priceAmount": "$418.52",
+      "ImageLinkWorks": false
+    },
+    {
+      "name": "Jordan 1 Retro High OG Heritage",
+      "productSize": "9.5",
+      "productUrl": "https://stockx.com/air-jordan-1-retro-high-og-heritage",
+      "imageUrl": "https://images.stockx.com/360/air-jordan-1-retro-high-og-heritage/Images/air-jordan-1-retro-high-og-heritage/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shoes",
+      "priceAmount": "$362.17",
+      "ImageLinkWorks": false
+    },
+    {
+      "name": "Jordan 1 High Zoom Air CMFT Pink Glaze Cactus Flower (W)",
+      "productSize": "9.5",
+      "productUrl": "https://stockx.com/air-jordan-1-high-zoom-air-cmft-pink-glaze-w",
+      "imageUrl": "https://images.stockx.com/360/air-jordan-1-high-zoom-air-cmft-pink-glaze-w/Images/air-jordan-1-high-zoom-air-cmft-pink-glaze-w/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shoes",
+      "priceAmount": "$305.83",
+      "ImageLinkWorks": false
+    },
+    {
+      "name": "Jordan 1 High OG Heirloom ",
+      "productSize": "9",
+      "productUrl": "https://stockx.com/air-jordan-1-retro-high-og-heirloom",
+      "imageUrl": "https://images.stockx.com/360/air-jordan-1-retro-high-og-heirloom/Images/air-jordan-1-retro-high-og-heirloom/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shoes",
+      "priceAmount": "$350",
+      "ImageLinkWorks": false
+    },
+    {
+      "name": "Jordan 4 Thunders",
+      "productSize": "8.5",
+      "productUrl": "https://stockx.com/air-jordan-4-retro-thunder-2023?size=8.5",
+      "imageUrl": "https://images.stockx.com/360/air-jordan-4-retro-thunder-2023/Images/air-jordan-4-retro-thunder-2023/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shoes",
+      "priceAmount": "$602",
+      "ImageLinkWorks": false
+    },
+    {
+      "name": "Jordan 3 Fire Red(2022)",
+      "productSize": "11",
+      "productUrl": "https://stockx.com/air-jordan-3-retro-fire-red-2022?size=11",
+      "imageUrl": "https://images.stockx.com/360/air-jordan-3-retro-fire-red-2022/Images/air-jordan-3-retro-fire-red-2022/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shoes",
+      "priceAmount": "$595",
+      "ImageLinkWorks": false
+    },
+    {
+      "name": "Jordan 1 Retro High OG Visionaire",
+      "productSize": "9.5",
+      "productUrl": "https://stockx.com/air-jordan-1-retro-high-og-visionaire?size=9.5",
+      "imageUrl": "https://images.stockx.com/360/air-jordan-1-retro-high-og-visionaire/Images/air-jordan-1-retro-high-og-visionaire/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shoes",
+      "priceAmount": "$350",
+      "ImageLinkWorks": false
+    }
+  ],
   "NIKE": [
     {
       "name": "Nike Kwondo 1 \"G-Dragon Peaceminusone Triple White\"",
-      "ProductSize": "6",
+      "productSize": "6",
       "productUrl": "https://stockx.com/nike-kwondo-1-g-dragon-peaceminusone-triple-white",
       "imageUrl": "https://images.stockx.com/360/Nike-Kwondo-1-G-Dragon-Peaceminusone-Triple-White/Images/Nike-Kwondo-1-G-Dragon-Peaceminusone-Triple-White/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shoes",
+      "priceAmount": "$378.27",
       "ImageLinkWorks": false
     },
     {
       "name": "Nike Air Max 1 Travis Scott Cactus Jack Saturn Gold",
-      "ProductSize": "9.5",
+      "productSize": "9.5",
       "productUrl": "https://stockx.com/nike-air-max-1-travis-scott-wheat",
       "imageUrl": "https://images.stockx.com/360/Nike-Air-Max-1-Travis-Scott-Wheat/Images/Nike-Air-Max-1-Travis-Scott-Wheat/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shoes",
+      "priceAmount": "$338.03",
       "ImageLinkWorks": true
     },
     {
       "name": "Nike Air Force 1 Mid Stussy Black White",
-      "ProductSize": "9.5",
+      "productSize": "9.5",
       "productUrl": "https://stockx.com/nike-air-force-1-mid-stussy-black-white",
       "imageUrl": "https://images.stockx.com/360/Nike-Air-Force-1-Mid-Stussy-Black-White/Images/Nike-Air-Force-1-Mid-Stussy-Black-White/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shoes",
+      "priceAmount": "$378.27",
       "ImageLinkWorks": true
     },
     {
       "name": "Nike Air Max 1 Travis Scott Cactus Jack Baroque Brown",
-      "ProductSize": "9.5",
+      "productSize": "9.5",
       "productUrl": "https://stockx.com/nike-air-max-1-travis-scott-baroque-brown",
       "imageUrl": "https://images.stockx.com/360/Nike-Air-Max-1-Travis-Scott-Baroque-Brown/Images/Nike-Air-Max-1-Travis-Scott-Baroque-Brown/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shoes",
+      "priceAmount": "$338.03",
       "ImageLinkWorks": true
     },
     {
       "name": "Nike Dunk High Championship White Red",
-      "ProductSize": "8",
+      "productSize": "8",
       "productUrl": "https://stockx.com/nike-dunk-high-university-red?size=8",
       "imageUrl": "https://images.stockx.com/360/Nike-Dunk-High-University-Red/Images/Nike-Dunk-High-University-Red/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shoes",
+      "priceAmount": "$185.15",
       "ImageLinkWorks": true
     },
     {
       "name": "Nike Dunk Low Retro QS Argon",
-      "ProductSize": "10",
+      "productSize": "10",
       "productUrl": "https://stockx.com/nike-dunk-low-retro-qs-flash-white-argon-blue-flash?size=10",
       "imageUrl": "https://images.stockx.com/360/Nike-Dunk-Low-Retro-Qs-Flash-White-Argon-Blue-Flash/Images/Nike-Dunk-Low-Retro-Qs-Flash-White-Argon-Blue-Flash/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shoes",
+      "priceAmount": "$209.30",
       "ImageLinkWorks": false
     },
     {
       "name": "Nike Dunk Low Wolf Grey Pure Platinum ",
-      "ProductSize": "12",
+      "productSize": "12",
       "productUrl": "https://stockx.com/nike-dunk-low-wolf-grey-pure-platinum?size=12",
       "imageUrl": "https://images.stockx.com/360/Nike-Dunk-Low-Wolf-Grey-Pure-Platinum/Images/Nike-Dunk-Low-Wolf-Grey-Pure-Platinum/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shoes",
+      "priceAmount": "$257.60",
       "ImageLinkWorks": true
     }
   ],
   "YEEZY": [
     {
       "name": "adidas YEEZY 700 V3 \"Mono Safflower\"",
-      "ProductSize": "11",
+      "productSize": "11",
       "productUrl": "https://stockx.com/adidas-yeezy-700-v3-mono-safflower",
       "imageUrl": "https://images.stockx.com/360/adidas-Yeezy-700-V3-Mono-Safflower/Images/adidas-Yeezy-700-V3-Mono-Safflower/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shoes",
+      "priceAmount": "$434.60",
       "ImageLinkWorks": true
     },
     {
       "name": "adidas Yeezy 450 \"Dark Slate\"",
-      "ProductSize": "10",
+      "productSize": "10",
       "productUrl": "https://stockx.com/adidas-yeezy-450-dark-slate",
       "imageUrl": "https://images.stockx.com/360/adidas-Yeezy-450-Dark-Slate/Images/adidas-Yeezy-450-Dark-Slate/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shoes",
+      "priceAmount": "$418.51",
       "ImageLinkWorks": true
     },
     {
       "name": "adidas Yeezy 450 \"Cloud White\"",
-      "ProductSize": "9.5",
+      "productSize": "9.5",
       "productUrl": "https://stockx.com/adidas-yeezy-450-cloud-white",
       "imageUrl": "https://images.stockx.com/360/adidas-Yeezy-450-Cloud-White/Images/adidas-Yeezy-450-Cloud-White/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shoes",
+      "priceAmount": "$418.52",
       "ImageLinkWorks": true
     },
     {
       "name": "adidas Yeezy Boost 350 V2 \"Zyon\"",
-      "ProductSize": "9.5",
+      "productSize": "9.5",
       "productUrl": "https://stockx.com/adidas-yeezy-boost-350-v2-zyon",
       "imageUrl": "https://images.stockx.com/360/adidas-Yeezy-Boost-350-V2-Zyon/Images/adidas-Yeezy-Boost-350-V2-Zyon/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shoes",
+      "priceAmount": "$515.09",
       "ImageLinkWorks": true
     },
     {
       "name": "adidas Yeezy Boost 350 V2 \"MX Oat\"",
-      "ProductSize": "9",
+      "productSize": "9",
       "productUrl": "https://stockx.com/adidas-yeezy-boost-350-v2-mx-oat",
       "imageUrl": "https://images.stockx.com/360/adidas-Yeezy-Boost-350-V2-Mx-Oat/Images/adidas-Yeezy-Boost-350-V2-Mx-Oat/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shoes",
+      "priceAmount": "$482.90",
       "ImageLinkWorks": false
     },
     {
       "name": "adidas Yeezy Boost 350 V2 \"MX Oat\"",
-      "ProductSize": "9.5",
+      "productSize": "9.5",
       "productUrl": "https://stockx.com/adidas-yeezy-boost-350-v2-mx-oat",
       "imageUrl": "https://images.stockx.com/360/adidas-Yeezy-Boost-350-V2-Mx-Oat/Images/adidas-Yeezy-Boost-350-V2-Mx-Oat/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shoes",
+      "priceAmount": "$482.90",
       "ImageLinkWorks": false
     },
     {
       "name": "adidas Yeezy Boost 700 \"Wash Orange\"",
-      "ProductSize": "9.5",
+      "productSize": "9.5",
       "productUrl": "https://stockx.com/adidas-yeezy-boost-700-wash-orange",
       "imageUrl": "https://images.stockx.com/360/adidas-Yeezy-Boost-700-Wash-Orange/Images/adidas-Yeezy-Boost-700-Wash-Orange/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shoes",
+      "priceAmount": "$515.09",
       "ImageLinkWorks": true
     },
     {
       "name": "adidas Yeezy Boost 700 Wave Runner \"Solid Grey\"",
-      "ProductSize": "9.5",
+      "productSize": "9.5",
       "productUrl": "https://stockx.com/adidas-yeezy-wave-runner-700-solid-grey",
       "imageUrl": "https://images.stockx.com/360/adidas-Yeezy-Wave-Runner-700-Solid-Grey/Images/adidas-Yeezy-Wave-Runner-700-Solid-Grey/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shoes",
+      "priceAmount": "$611.67",
       "ImageLinkWorks": true
     },
     {
       "name": "adidas Yeezy Boost 350 V2 Beluga Reflective",
-      "ProductSize": "10",
+      "productSize": "10",
       "productUrl": "https://stockx.com/adidas-yeezy-boost-350-v2-beluga-reflective",
       "imageUrl": "https://images.stockx.com/360/adidas-Yeezy-Boost-350-V2-Beluga-Reflective/Images/adidas-Yeezy-Boost-350-V2-Beluga-Reflective/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shoes",
+      "priceAmount": "$515.09",
       "ImageLinkWorks": true
     },
     {
       "name": "adidas Yeezy Boost 700 MNVN \"Resin\"",
-      "ProductSize": "9.5",
+      "productSize": "9.5",
       "productUrl": "https://stockx.com/adidas-yeezy-boost-700-mnvn-resin",
       "imageUrl": "https://images.stockx.com/360/adidas-Yeezy-Boost-700-Mnvn-Resin/Images/adidas-Yeezy-Boost-700-Mnvn-Resin/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shoes",
+      "priceAmount": "$482.90",
       "ImageLinkWorks": false
     },
     {
       "name": "adidas Yeezy Boost 700 V2 \"Static\" (2018/2022)",
-      "ProductSize": "10",
+      "productSize": "10",
       "productUrl": "https://stockx.com/adidas-yeezy-boost-700-v2-static",
       "imageUrl": "https://images.stockx.com/360/adidas-Yeezy-Boost-700-V2-Static/Images/adidas-Yeezy-Boost-700-V2-Static/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shoes",
+      "priceAmount": "$611.67",
       "ImageLinkWorks": false
     },
     {
       "name": "adidas Yeezy Boost 350 V2 Zebra (2017/2022)",
-      "ProductSize": "8.5",
+      "productSize": "8.5",
       "productUrl": "https://stockx.com/adidas-yeezy-boost-350-v2-white-core-black-red",
       "imageUrl": "https://images.stockx.com/360/adidas-Yeezy-Boost-350-V2-White-Core-Black-Red/Images/adidas-Yeezy-Boost-350-V2-White-Core-Black-Red/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shoes",
+      "priceAmount": "$499.00",
       "ImageLinkWorks": false
     },
     {
       "name": "adidas Yeezy Boost 350 V2 Zebra (2017/2022)",
-      "ProductSize": "10",
+      "productSize": "10",
       "productUrl": "https://stockx.com/adidas-yeezy-boost-350-v2-white-core-black-red",
       "imageUrl": "https://images.stockx.com/360/adidas-Yeezy-Boost-350-V2-White-Core-Black-Red/Images/adidas-Yeezy-Boost-350-V2-White-Core-Black-Red/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shoes",
+      "priceAmount": "$499.00",
       "ImageLinkWorks": false
     },
     {
       "name": "adidas Yeezy 350 V2 CMPCT Slate Carbon",
-      "ProductSize": "10",
+      "productSize": "10",
       "productUrl": "https://stockx.com/adidas-yeezy-350-v2-cmpct-slate-carbon",
       "imageUrl": "https://images.stockx.com/360/adidas-Yeezy-350-V2-Cmpct-Slate-Carbon/Images/adidas-Yeezy-350-V2-Cmpct-Slate-Carbon/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shoes",
+      "priceAmount": "$499.00",
       "ImageLinkWorks": false
     },
     {
       "name": "adidas Yeezy Slide Pure (Restock Pair)",
-      "ProductSize": "7",
+      "productSize": "7",
       "productUrl": "https://stockx.com/adidas-yeezy-slide-pure-restock-pair",
       "imageUrl": "https://images.stockx.com/360/adidas-Yeezy-Slide-Pure-Restock-Pair/Images/adidas-Yeezy-Slide-Pure-Restock-Pair/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shoes",
+      "priceAmount": "$144.87",
       "ImageLinkWorks": true
     },
     {
       "name": "adidas Yeezy Boost 700 V2 Static (2018/2022)",
-      "ProductSize": "6",
+      "productSize": "6",
       "productUrl": "https://stockx.com/adidas-yeezy-boost-700-v2-static",
       "imageUrl": "https://images.stockx.com/360/adidas-Yeezy-Boost-700-V2-Static/Images/adidas-Yeezy-Boost-700-V2-Static/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shoes",
+      "priceAmount": "$611.67",
       "ImageLinkWorks": false
     },
     {
       "name": "adidas Yeezy Foam RNR Onyx",
-      "ProductSize": "12",
+      "productSize": "12",
       "productUrl": "https://stockx.com/adidas-yeezy-foam-rnnr-onyx",
       "imageUrl": "https://images.stockx.com/360/adidas-Yeezy-Foam-Rnnr-Onyx/Images/adidas-Yeezy-Foam-Rnnr-Onyx/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shoes",
+      "priceAmount": "$193.16",
       "ImageLinkWorks": false
     },
     {
       "name": "adidas Yeezy BSKTBL Knit Slate Azure",
-      "ProductSize": "10",
+      "productSize": "10",
       "productUrl": "https://stockx.com/adidas-yeezy-bsktbl-knit-slate-azure",
       "imageUrl": "https://images.stockx.com/360/adidas-Yeezy-Bsktbl-Knit-Slate-Azure/Images/adidas-Yeezy-Bsktbl-Knit-Slate-Azure/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shoes",
+      "priceAmount": "$547.29",
       "ImageLinkWorks": false
     },
     {
       "name": "adidas Yeezy Slide Flax",
-      "ProductSize": "6",
+      "productSize": "6",
       "productUrl": "https://stockx.com/adidas-yeezy-slide-flax?size=6",
       "imageUrl": "https://images.stockx.com/360/adidas-Yeezy-Slide-Flax/Images/adidas-Yeezy-Slide-Flax/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shoes",
+      "priceAmount": "$112.70",
       "ImageLinkWorks": true
     },
     {
       "name": "adidas Yeezy 350V2 CMPCT Slate Bone",
-      "ProductSize": "10",
+      "productSize": "10",
       "productUrl": "https://stockx.com/adidas-yeezy-350-v2-cmpct-slate-bone?size=10",
       "imageUrl": "https://images.stockx.com/360/adidas-Yeezy-350-V2-Cmpct-Slate-Bone/Images/adidas-Yeezy-350-V2-Cmpct-Slate-Bone/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shoes",
+      "priceAmount": "$370.30",
       "ImageLinkWorks": false
     },
     {
       "name": "adidas Yeezy 350V2 CMPCT Slate Bone",
-      "ProductSize": "6",
+      "productSize": "6",
       "productUrl": "https://stockx.com/adidas-yeezy-350-v2-cmpct-slate-bone?size=6",
       "imageUrl": "https://images.stockx.com/360/adidas-Yeezy-350-V2-Cmpct-Slate-Bone/Images/adidas-Yeezy-350-V2-Cmpct-Slate-Bone/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shoes",
+      "priceAmount": "$370.30",
       "ImageLinkWorks": false
     },
     {
       "name": "adidas Yeezy Boost 350 V2 Slate",
-      "ProductSize": "6",
+      "productSize": "6",
       "productUrl": "https://stockx.com/adidas-yeezy-boost-350-v2-slate-core-black-slate",
       "imageUrl": "https://images.stockx.com/360/adidas-Yeezy-Boost-350-V2-Slate-Core-Black-Slate/Images/adidas-Yeezy-Boost-350-V2-Slate-Core-Black-Slate/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shoes",
+      "priceAmount": "$370.30",
       "ImageLinkWorks": true
     },
     {
       "name": "adidas Yeezy Boost 350 V2 Blue Tint",
-      "ProductSize": "8.5",
+      "productSize": "8.5",
       "productUrl": "https://stockx.com/adidas-yeezy-boost-350-v2-blue-tint?size=8.5",
       "imageUrl": "https://images.stockx.com/360/adidas-Yeezy-Boost-350-V2-Blue-Tint/Images/adidas-Yeezy-Boost-350-V2-Blue-Tint/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shoes",
+      "priceAmount": "$354.20",
       "ImageLinkWorks": true
     },
     {
       "name": "adidas Yeezy Boost 350 V2 Slate",
-      "ProductSize": "8",
+      "productSize": "8",
       "productUrl": "https://stockx.com/adidas-yeezy-boost-350-v2-slate-core-black-slate?size=8",
       "imageUrl": "https://images.stockx.com/360/adidas-Yeezy-Boost-350-V2-Slate-Core-Black-Slate/Images/adidas-Yeezy-Boost-350-V2-Slate-Core-Black-Slate/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shoes",
+      "priceAmount": "$370.30",
       "ImageLinkWorks": true
     },
     {
       "name": "adidas Yeezy 450 Dark Slate",
-      "ProductSize": "6.5",
+      "productSize": "6.5",
       "productUrl": "https://stockx.com/adidas-yeezy-450-dark-slate?size=6.5",
       "imageUrl": "https://images.stockx.com/360/adidas-Yeezy-450-Dark-Slate/Images/adidas-Yeezy-450-Dark-Slate/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shoes",
+      "priceAmount": "$112.70",
       "ImageLinkWorks": true
     },
     {
       "name": "adidas Yeezy 450 Stone Flax",
-      "ProductSize": "10",
+      "productSize": "10",
       "productUrl": "https://stockx.com/adidas-yeezy-450-stone-flax?size=10",
       "imageUrl": "https://images.stockx.com/360/adidas-Yeezy-450-Stone-Flax/Images/adidas-Yeezy-450-Stone-Flax/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shoes",
+      "priceAmount": "$338.10",
       "ImageLinkWorks": true
     },
     {
       "name": "adidas Yeezy 450 Stone Flax",
-      "ProductSize": "10",
+      "productSize": "10",
       "productUrl": "https://stockx.com/adidas-yeezy-450-stone-flax?size=10",
       "imageUrl": "https://images.stockx.com/360/adidas-Yeezy-450-Stone-Flax/Images/adidas-Yeezy-450-Stone-Flax/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shoes",
+      "priceAmount": "$338.10",
       "ImageLinkWorks": true
     },
     {
       "name": "adidas Yeezy Foam RNNR Ochre",
-      "ProductSize": "6",
+      "productSize": "6",
       "productUrl": "https://stockx.com/adidas-yeezy-foam-rnnr-ochre?size=6",
       "imageUrl": "https://images.stockx.com/360/adidas-Yeezy-Foam-Rnnr-Ochre/Images/adidas-Yeezy-Foam-Rnnr-Ochre/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shoes",
+      "priceAmount": "$128.80",
       "ImageLinkWorks": false
     },
     {
       "name": "adidas Yeezy Foam RNNR Vermillion",
-      "ProductSize": "6",
+      "productSize": "6",
       "productUrl": "https://stockx.com/adidas-yeezy-foam-rnnr-vermillion?size=6",
       "imageUrl": "https://images.stockx.com/360/adidas-Yeezy-Foam-Rnnr-Vermillion/Images/adidas-Yeezy-Foam-Rnnr-Vermillion/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shoes",
+      "priceAmount": "$128.80",
       "ImageLinkWorks": false
     },
     {
       "name": "adidas Yeezy Foam RNNR Sand",
-      "ProductSize": "7",
+      "productSize": "7",
       "productUrl": "https://stockx.com/adidas-yeezy-foam-rnnr-sand?size=7",
       "imageUrl": "https://images.stockx.com/360/adidas-Yeezy-Foam-Rnnr-Sand/Images/adidas-Yeezy-Foam-Rnnr-Sand/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shoes",
+      "priceAmount": "$128.80",
       "ImageLinkWorks": false
     },
     {
       "name": "adidas Yeezy Foam RNNR Sand",
-      "ProductSize": "8",
+      "productSize": "8",
       "productUrl": "https://stockx.com/adidas-yeezy-foam-rnnr-sand?size=8",
       "imageUrl": "https://images.stockx.com/360/adidas-Yeezy-Foam-Rnnr-Sand/Images/adidas-Yeezy-Foam-Rnnr-Sand/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shoes",
+      "priceAmount": "$128.80",
       "ImageLinkWorks": false
     },
     {
       "name": "adidas Yeezy Foam RNNR Stone Sage",
-      "ProductSize": "11",
+      "productSize": "11",
       "productUrl": "https://stockx.com/adidas-yeezy-foam-rnnr-stone-sage?size=11",
       "imageUrl": "https://images.stockx.com/360/adidas-Yeezy-Foam-Rnnr-Stone-Sage/Images/adidas-Yeezy-Foam-Rnnr-Stone-Sage/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shoes",
+      "priceAmount": "$128.80",
       "ImageLinkWorks": false
     },
     {
       "name": "adidas Yeezy Boost 700 Wave Runner",
-      "ProductSize": "9.5",
+      "productSize": "9.5",
       "productUrl": "https://stockx.com/adidas-yeezy-wave-runner-700-solid-grey?size=9.5",
       "imageUrl": "https://images.stockx.com/360/adidas-Yeezy-Wave-Runner-700-Solid-Grey/Images/adidas-Yeezy-Wave-Runner-700-Solid-Grey/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shoes",
+      "priceAmount": "$483.00",
       "ImageLinkWorks": true
     },
     {
       "name": "adidas Yeezy Boost 700 V2 Static",
-      "ProductSize": "8.5",
+      "productSize": "8.5",
       "productUrl": "https://stockx.com/adidas-yeezy-boost-700-v2-static?size=8.5",
       "imageUrl": "https://images.stockx.com/360/adidas-Yeezy-Boost-700-V2-Static/Images/adidas-Yeezy-Boost-700-V2-Static/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shoes",
+      "priceAmount": "$483.00",
       "ImageLinkWorks": false
     },
     {
       "name": "adidas Yeezy Boost 700 MNVN Laceless Analog",
-      "ProductSize": "11",
+      "productSize": "11",
       "productUrl": "https://stockx.com/adidas-yeezy-boost-700-mnvn-laceless-analog?size=11",
       "imageUrl": "https://images.stockx.com/360/adidas-Yeezy-Boost-700-Mnvn-Laceless-Analog/Images/adidas-Yeezy-Boost-700-Mnvn-Laceless-Analog/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shoes",
+      "priceAmount": "$354.20",
       "ImageLinkWorks": false
     }
   ],
   "ESSENTIALS": [
     {
       "name": "Fear of God Essentials Crewneck Crewneck Seafoam",
-      "ProductSize": "M",
+      "productSize": "M",
       "productUrl": "https://stockx.com/en-gb/fear-of-god-essentials-crewneck-crewneck-seafoam",
       "imageUrl": "https://images.stockx.com/360/en-gb/Images/en-gb/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Hoodies & Crewnecks",
+      "priceAmount": "$177.80",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Hoodie Seafoam",
-      "ProductSize": "M",
+      "productSize": "M",
       "productUrl": "https://stockx.com/en-gb/fear-of-god-essentials-hoodie-hoodie-seafoam",
       "imageUrl": "https://images.stockx.com/360/en-gb/Images/en-gb/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Hoodies & Crewnecks",
+      "priceAmount": "$193.20",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Hoodie Seafoam",
-      "ProductSize": "M",
+      "productSize": "M",
       "productUrl": "https://stockx.com/en-gb/fear-of-god-essentials-hoodie-hoodie-seafoam",
       "imageUrl": "https://images.stockx.com/360/en-gb/Images/en-gb/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Hoodies & Crewnecks",
+      "priceAmount": "$193.20",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Sweatpants Seafoam",
-      "ProductSize": "M",
+      "productSize": "M",
       "productUrl": "https://stockx.com/en-gb/fear-of-god-essentials-sweatpants-sweatpants-seafoam",
       "imageUrl": "https://images.stockx.com/360/en-gb/Images/en-gb/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Pants",
+      "priceAmount": "$193.20",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Sweatpants Seafoam",
-      "ProductSize": "M",
+      "productSize": "M",
       "productUrl": "https://stockx.com/en-gb/fear-of-god-essentials-sweatpants-sweatpants-seafoam",
       "imageUrl": "https://images.stockx.com/360/en-gb/Images/en-gb/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Pants",
+      "priceAmount": "$193.20",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Shorts Seafoam",
-      "ProductSize": "M",
+      "productSize": "M",
       "productUrl": "https://stockx.com/en-gb/fear-of-god-essentials-shorts-seafoam",
       "imageUrl": "https://images.stockx.com/360/en-gb/Images/en-gb/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shorts",
+      "priceAmount": "$152.60",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Shorts Seafoam",
-      "ProductSize": "M",
+      "productSize": "M",
       "productUrl": "https://stockx.com/fear-of-god-essentials-shorts-seafoam?size=M",
       "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-Shorts-Seafoam/Images/Fear-Of-God-Essentials-Shorts-Seafoam/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shorts",
+      "priceAmount": "$112.70",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Sweatpants Sweatpants Wheat",
-      "ProductSize": "M",
+      "productSize": "M",
       "productUrl": "https://stockx.com/en-gb/fear-of-god-essentials-sweatpants-sweatpants-wheat",
       "imageUrl": "https://images.stockx.com/360/en-gb/Images/en-gb/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Pants",
+      "priceAmount": "$193.20",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials 1977 Hoodie Wheat ",
-      "ProductSize": "M",
+      "productSize": "M",
       "productUrl": "https://stockx.com/en-gb/fear-of-god-essentials-1977-hoodie-wheat",
       "imageUrl": "https://images.stockx.com/360/en-gb/Images/en-gb/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Hoodies & Crewnecks",
+      "priceAmount": "$193.20",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Relaxed Hoodie Wheat",
-      "ProductSize": "M",
+      "productSize": "M",
       "productUrl": "https://stockx.com/en-gb/fear-of-god-essentials-relaxed-hoodie-wheat",
       "imageUrl": "https://images.stockx.com/360/en-gb/Images/en-gb/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Hoodies & Crewnecks",
+      "priceAmount": "$193.20",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials 1977 L/S T-shirt Iron",
-      "ProductSize": "M",
+      "productSize": "M",
       "productUrl": "https://stockx.com/en-gb/fear-of-god-essentials-1977-l-s-t-shirt-iron",
       "imageUrl": "https://images.stockx.com/360/en-gb/Images/en-gb/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shirts",
+      "priceAmount": "$185.15",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials 1977 L/S T-shirt Iron",
-      "ProductSize": "M",
+      "productSize": "M",
       "productUrl": "https://stockx.com/en-gb/fear-of-god-essentials-1977-l-s-t-shirt-iron",
       "imageUrl": "https://images.stockx.com/360/en-gb/Images/en-gb/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shirts",
+      "priceAmount": "$185.15",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Relaxed Hoodie Iron",
-      "ProductSize": "M",
+      "productSize": "M",
       "productUrl": "https://stockx.com/en-gb/fear-of-god-essentials-relaxed-hoodie-iron",
       "imageUrl": "https://images.stockx.com/360/en-gb/Images/en-gb/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Hoodies & Crewnecks",
+      "priceAmount": "$193.20",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Elasticized Cuffs 1977 Sweatpants Iron",
-      "ProductSize": "M",
+      "productSize": "M",
       "productUrl": "https://stockx.com/en-gb/fear-of-god-essentials-1977-sweatpants-iron",
       "imageUrl": "https://images.stockx.com/360/en-gb/Images/en-gb/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Pants",
+      "priceAmount": "$193.20",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Elasticized Cuffs 1977 Sweatpants Iron",
-      "ProductSize": "M",
+      "productSize": "M",
       "productUrl": "https://stockx.com/en-gb/fear-of-god-essentials-1977-sweatpants-iron",
       "imageUrl": "https://images.stockx.com/360/en-gb/Images/en-gb/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Pants",
+      "priceAmount": "$193.20",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Elasticized Cuffs 1977 Sweatpants Iron",
-      "ProductSize": "M",
+      "productSize": "M",
       "productUrl": "https://stockx.com/en-gb/fear-of-god-essentials-1977-sweatpants-iron",
       "imageUrl": "https://images.stockx.com/360/en-gb/Images/en-gb/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Pants",
+      "priceAmount": "$193.20",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Relaxed Hoodie Iron",
-      "ProductSize": "M",
+      "productSize": "M",
       "productUrl": "https://stockx.com/en-gb/fear-of-god-essentials-relaxed-hoodie-iron",
       "imageUrl": "https://images.stockx.com/360/en-gb/Images/en-gb/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Hoodies & Crewnecks",
+      "priceAmount": "$193.20",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Relaxed 1977 Sweatpants Iron",
-      "ProductSize": "M",
+      "productSize": "M",
       "productUrl": "https://stockx.com/en-gb/fear-of-god-essentials-relaxed-sweatpants-iron",
       "imageUrl": "https://images.stockx.com/360/en-gb/Images/en-gb/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Pants",
+      "priceAmount": "$193.20",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Relaxed 1977 Sweatpants Iron",
-      "ProductSize": "M",
+      "productSize": "M",
       "productUrl": "https://stockx.com/en-gb/fear-of-god-essentials-relaxed-sweatpants-iron",
       "imageUrl": "https://images.stockx.com/360/en-gb/Images/en-gb/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Pants",
+      "priceAmount": "$193.20",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Mockneck Iron",
-      "ProductSize": "M",
+      "productSize": "M",
       "productUrl": "https://stockx.com/en-gb/fear-of-god-essentials-mock-neck-sweater-black-stretch-limo",
       "imageUrl": "https://images.stockx.com/360/en-gb/Images/en-gb/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Hoodies & Crewnecks",
+      "priceAmount": "$177.10",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials 1977 T-shirt Iron",
-      "ProductSize": "M",
+      "productSize": "M",
       "productUrl": "https://stockx.com/en-gb/fear-of-god-essentials-1977-t-shirt-iron",
       "imageUrl": "https://images.stockx.com/360/en-gb/Images/en-gb/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shirts",
+      "priceAmount": "$98.00",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials 1977 Knit Hoodie Iron",
-      "ProductSize": "M",
+      "productSize": "M",
       "productUrl": "https://stockx.com/en-gb/fear-of-god-essentials-1977-knit-hoodie-iron",
       "imageUrl": "https://images.stockx.com/360/en-gb/Images/en-gb/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Hoodies & Crewnecks",
+      "priceAmount": "$225.40",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials 1977 Shorts Iron",
-      "ProductSize": "M",
+      "productSize": "M",
       "productUrl": "https://stockx.com/en-gb/fear-of-god-essentials-1977-shorts-iron",
       "imageUrl": "https://images.stockx.com/360/en-gb/Images/en-gb/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shorts",
+      "priceAmount": "$154.00",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials 1977 Hoodie Iron",
-      "ProductSize": "M",
+      "productSize": "M",
       "productUrl": "https://stockx.com/en-gb/fear-of-god-essentials-1977-hoodie-iron",
       "imageUrl": "https://images.stockx.com/360/en-gb/Images/en-gb/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Hoodies & Crewnecks",
+      "priceAmount": "$210.00",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials 1977 Hoodie Iron",
-      "ProductSize": "M",
+      "productSize": "M",
       "productUrl": "https://stockx.com/en-gb/fear-of-god-essentials-1977-hoodie-iron",
       "imageUrl": "https://images.stockx.com/360/en-gb/Images/en-gb/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Hoodies & Crewnecks",
+      "priceAmount": "$210.00",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials 1977 Crewneck Iron",
-      "ProductSize": "M",
+      "productSize": "M",
       "productUrl": "https://stockx.com/fear-of-god-essentials-1977-crewneck-iron?size=M",
       "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-1977-Crewneck-Iron/Images/Fear-Of-God-Essentials-1977-Crewneck-Iron/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Hoodies & Crewnecks",
+      "priceAmount": "$136.85",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials 1977 Crewneck Iron",
-      "ProductSize": "M",
+      "productSize": "M",
       "productUrl": "https://stockx.com/fear-of-god-essentials-1977-crewneck-iron?size=M",
       "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-1977-Crewneck-Iron/Images/Fear-Of-God-Essentials-1977-Crewneck-Iron/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Hoodies & Crewnecks",
+      "priceAmount": "$136.85",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Polo Black/Stretch Limo Jet Black",
-      "ProductSize": "S",
+      "productSize": "S",
       "productUrl": "https://stockx.com/fear-of-god-essentials-polo-black-stretch-limo?size=S",
       "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-Polo-Black-Stretch-Limo/Images/Fear-Of-God-Essentials-Polo-Black-Stretch-Limo/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shirts",
+      "priceAmount": "$80.50",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Polo Black/Stretch Limo Jet Black",
-      "ProductSize": "M",
+      "productSize": "M",
       "productUrl": "https://stockx.com/fear-of-god-essentials-polo-black-stretch-limo?size=M",
       "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-Polo-Black-Stretch-Limo/Images/Fear-Of-God-Essentials-Polo-Black-Stretch-Limo/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shirts",
+      "priceAmount": "$80.50",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God FOG Essentials Tank Top Jet Black",
-      "ProductSize": "S",
+      "productSize": "S",
       "productUrl": "https://stockx.com/fear-of-god-fog-essentials-tank-top-black?size=S",
       "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Fog-Essentials-Tank-Top-Black/Images/Fear-Of-God-Fog-Essentials-Tank-Top-Black/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shirts",
+      "priceAmount": "$64.40",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God FOG Essentials Tank Top Jet Black",
-      "ProductSize": "M",
+      "productSize": "M",
       "productUrl": "https://stockx.com/fear-of-god-fog-essentials-tank-top-black?size=M",
       "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Fog-Essentials-Tank-Top-Black/Images/Fear-Of-God-Fog-Essentials-Tank-Top-Black/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shirts",
+      "priceAmount": "$64.40",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Black Spread Collar Shirt",
-      "ProductSize": "S",
+      "productSize": "S",
       "productUrl": "https://www.ssense.com/en-ca/men/product/solid-homme/black-spread-collar-shirt/12256921?gad_source=1&gbraid=0AAAAAD9ouUuCCVZZRjhspKI0scMrJ_mdh&gclid=Cj0KCQjwwae1BhC_ARIsAK4Jfrx3rl-DQGCow_UCMYPRxAtF167inuNvwX1zVrc0-gxmQFSE1eR3gt0aAjzcEALw_wcB",
       "imageUrl": "https://images.stockx.com/360/en-ca/Images/en-ca/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shirts",
+      "priceAmount": "$611.80",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Bonded Hoodie Black",
-      "ProductSize": "S",
+      "productSize": "S",
       "productUrl": "https://stockx.com/fear-of-god-essentials-hoodie-black?size=S",
       "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-Hoodie-Black/Images/Fear-Of-God-Essentials-Hoodie-Black/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Hoodies & Crewnecks",
+      "priceAmount": "$161.00",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Bonded Hoodie Black",
-      "ProductSize": "S",
+      "productSize": "S",
       "productUrl": "https://stockx.com/fear-of-god-essentials-hoodie-black?size=S",
       "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-Hoodie-Black/Images/Fear-Of-God-Essentials-Hoodie-Black/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Hoodies & Crewnecks",
+      "priceAmount": "$161.00",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Bonded Hoodie Black",
-      "ProductSize": "M",
+      "productSize": "M",
       "productUrl": "https://stockx.com/fear-of-god-essentials-hoodie-black?size=M",
       "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-Hoodie-Black/Images/Fear-Of-God-Essentials-Hoodie-Black/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Hoodies & Crewnecks",
+      "priceAmount": "$161.00",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Relaxed Pants Black",
-      "ProductSize": "S",
+      "productSize": "S",
       "productUrl": "https://www.ssense.com/en-ca/women/product/essentials/black-relaxed-sweatpants/14672331?gad_source=1&gbraid=0AAAAAD9ouUuH7kH75chjCqjPSzfm5zVcL&gclid=Cj0KCQjwwae1BhC_ARIsAK4Jfry6coUYByBVxlwPJp06xZIMWW1zbCQzRqzPF7X5UexZc59rLUwP5PkaAlgUEALw_wcB",
       "imageUrl": "https://images.stockx.com/360/en-ca/Images/en-ca/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Pants",
+      "priceAmount": "$209.30",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Rib Leggings Black",
-      "ProductSize": "M",
+      "productSize": "M",
       "productUrl": "https://www.ssense.com/en-ca/women/product/essentials/black-rib-leggings/15438691?gad_source=1&gbraid=0AAAAAD9ouUuH7kH75chjCqjPSzfm5zVcL&gclid=Cj0KCQjwwae1BhC_ARIsAK4JfrxA-OC6KXREgFkISTrP3zuZ4iPE_xMsh66mKqvVo8gN_EYdUWE4l28aAt3HEALw_wcB",
       "imageUrl": "https://images.stockx.com/360/en-ca/Images/en-ca/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Pants",
+      "priceAmount": "$209.30",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Denim Jacket Black Patch",
-      "ProductSize": "S",
+      "productSize": "S",
       "productUrl": "https://www.ssense.com/en-ca/men/product/essentials/black-patch-denim-jacket/12959871",
       "imageUrl": "https://images.stockx.com/360/en-ca/Images/en-ca/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Jackets",
+      "priceAmount": "$402.50",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Denim Jacket Black Patch",
-      "ProductSize": "M",
+      "productSize": "M",
       "productUrl": "https://www.ssense.com/en-ca/men/product/essentials/black-patch-denim-jacket/12959871",
       "imageUrl": "https://images.stockx.com/360/en-ca/Images/en-ca/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Jackets",
+      "priceAmount": "$402.50",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Denim Jacket Black Patch",
-      "ProductSize": "M",
+      "productSize": "M",
       "productUrl": "https://www.ssense.com/en-ca/men/product/essentials/black-patch-denim-jacket/12959871",
       "imageUrl": "https://images.stockx.com/360/en-ca/Images/en-ca/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Jackets",
+      "priceAmount": "$402.50",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Drawstring Jacket Black",
-      "ProductSize": "S",
+      "productSize": "S",
       "productUrl": "",
       "imageUrl": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Jackets",
+      "priceAmount": "$161.00",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Drawstring Jacket Black",
-      "ProductSize": "M",
+      "productSize": "M",
       "productUrl": "",
       "imageUrl": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Jackets",
+      "priceAmount": "$161.00",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Jersey Polo Concrete",
-      "ProductSize": "S",
+      "productSize": "S",
       "productUrl": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-jersey-polo-cement?size=S",
       "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Jersey-Polo-Cement/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Jersey-Polo-Cement/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shirts",
+      "priceAmount": "$104.65",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Jersey Polo Concrete",
-      "ProductSize": "M",
+      "productSize": "M",
       "productUrl": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-jersey-polo-cement?size=M",
       "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Jersey-Polo-Cement/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Jersey-Polo-Cement/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shirts",
+      "priceAmount": "$104.65",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Jersey Polo Concrete",
-      "ProductSize": "M",
+      "productSize": "M",
       "productUrl": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-jersey-polo-cement?size=M",
       "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Jersey-Polo-Cement/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Jersey-Polo-Cement/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shirts",
+      "priceAmount": "$104.65",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Jersey Polo Concrete",
-      "ProductSize": "L",
+      "productSize": "L",
       "productUrl": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-jersey-polo-cement?size=L",
       "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Jersey-Polo-Cement/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Jersey-Polo-Cement/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shirts",
+      "priceAmount": "$104.65",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Mock Neck Sweatshirt Concrete",
-      "ProductSize": "M",
+      "productSize": "M",
       "productUrl": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-mock-neck-sweatshirt-cement?size=M",
       "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Mock-Neck-Sweatshirt-Cement/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Mock-Neck-Sweatshirt-Cement/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Hoodies & Crewnecks",
+      "priceAmount": "$136.85",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Mock Neck Sweatshirt Concrete",
-      "ProductSize": "M",
+      "productSize": "M",
       "productUrl": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-mock-neck-sweatshirt-cement?size=M",
       "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Mock-Neck-Sweatshirt-Cement/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Mock-Neck-Sweatshirt-Cement/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Hoodies & Crewnecks",
+      "priceAmount": "$136.85",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Mock Neck Sweatshirt Concrete",
-      "ProductSize": "L",
+      "productSize": "L",
       "productUrl": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-mock-neck-sweatshirt-cement?size=L",
       "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Mock-Neck-Sweatshirt-Cement/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Mock-Neck-Sweatshirt-Cement/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Hoodies & Crewnecks",
+      "priceAmount": "$136.85",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Mock Neck Sweatshirt Concrete",
-      "ProductSize": "L",
+      "productSize": "L",
       "productUrl": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-mock-neck-sweatshirt-cement?size=L",
       "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Mock-Neck-Sweatshirt-Cement/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Mock-Neck-Sweatshirt-Cement/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Hoodies & Crewnecks",
+      "priceAmount": "$136.85",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Fleece Lounge Pants Concrete",
-      "ProductSize": "M",
+      "productSize": "M",
       "productUrl": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-fleece-lounge-pants-cement?size=M",
       "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Fleece-Lounge-Pants-Cement/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Fleece-Lounge-Pants-Cement/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Pants",
+      "priceAmount": "$152.95",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Fleece Lounge Pants Concrete",
-      "ProductSize": "L",
+      "productSize": "L",
       "productUrl": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-fleece-lounge-pants-cement?size=L",
       "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Fleece-Lounge-Pants-Cement/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Fleece-Lounge-Pants-Cement/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Pants",
+      "priceAmount": "$152.95",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Fleece Sweatshorts Concrete",
-      "ProductSize": "S",
+      "productSize": "S",
       "productUrl": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-fleece-sweatshorts-cement?size=S",
       "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Fleece-Sweatshorts-Cement/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Fleece-Sweatshorts-Cement/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shorts",
+      "priceAmount": "$120.75",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Fleece Sweatshorts Concrete",
-      "ProductSize": "M",
+      "productSize": "M",
       "productUrl": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-fleece-sweatshorts-cement?size=M",
       "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Fleece-Sweatshorts-Cement/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Fleece-Sweatshorts-Cement/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shorts",
+      "priceAmount": "$120.75",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Fleece Sweatshorts Concrete",
-      "ProductSize": "M",
+      "productSize": "M",
       "productUrl": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-fleece-sweatshorts-cement?size=M",
       "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Fleece-Sweatshorts-Cement/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Fleece-Sweatshorts-Cement/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shorts",
+      "priceAmount": "$120.75",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Jersey Polo Linen",
-      "ProductSize": "S",
+      "productSize": "S",
       "productUrl": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-jersey-polo-linen?size=S",
       "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Jersey-Polo-Linen/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Jersey-Polo-Linen/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shirts",
+      "priceAmount": "$104.65",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Jersey Polo Linen",
-      "ProductSize": "M",
+      "productSize": "M",
       "productUrl": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-jersey-polo-linen?size=M",
       "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Jersey-Polo-Linen/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Jersey-Polo-Linen/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shirts",
+      "priceAmount": "$104.65",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Jersey Polo Linen",
-      "ProductSize": "L",
+      "productSize": "L",
       "productUrl": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-jersey-polo-linen?size=L",
       "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Jersey-Polo-Linen/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Jersey-Polo-Linen/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shirts",
+      "priceAmount": "$104.65",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Jersey Polo Linen",
-      "ProductSize": "L",
+      "productSize": "L",
       "productUrl": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-jersey-polo-linen?size=L",
       "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Jersey-Polo-Linen/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Jersey-Polo-Linen/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shirts",
+      "priceAmount": "$104.65",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Mock Neck Sweatshirt Linen",
-      "ProductSize": "S",
+      "productSize": "S",
       "productUrl": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-mock-neck-sweatshirt-linen?size=S",
       "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Mock-Neck-Sweatshirt-Linen/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Mock-Neck-Sweatshirt-Linen/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Hoodies & Crewnecks",
+      "priceAmount": "$136.85",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Mock Neck Sweatshirt Linen",
-      "ProductSize": "M",
+      "productSize": "M",
       "productUrl": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-mock-neck-sweatshirt-linen?size=M",
       "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Mock-Neck-Sweatshirt-Linen/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Mock-Neck-Sweatshirt-Linen/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Hoodies & Crewnecks",
+      "priceAmount": "$136.85",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Mock Neck Sweatshirt Linen",
-      "ProductSize": "M",
+      "productSize": "M",
       "productUrl": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-mock-neck-sweatshirt-linen?size=M",
       "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Mock-Neck-Sweatshirt-Linen/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Mock-Neck-Sweatshirt-Linen/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Hoodies & Crewnecks",
+      "priceAmount": "$136.85",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Mock Neck Sweatshirt Linen",
-      "ProductSize": "L",
+      "productSize": "L",
       "productUrl": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-mock-neck-sweatshirt-linen?size=L",
       "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Mock-Neck-Sweatshirt-Linen/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Mock-Neck-Sweatshirt-Linen/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Hoodies & Crewnecks",
+      "priceAmount": "$136.85",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Fleece Lounge Pants Linen",
-      "ProductSize": "M",
+      "productSize": "M",
       "productUrl": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-fleece-lounge-pants-linen?size=M",
       "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Fleece-Lounge-Pants-Linen/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Fleece-Lounge-Pants-Linen/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Pants",
+      "priceAmount": "$152.95",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Fleece Lounge Pants Linen",
-      "ProductSize": "L",
+      "productSize": "L",
       "productUrl": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-fleece-lounge-pants-linen?size=L",
       "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Fleece-Lounge-Pants-Linen/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Fleece-Lounge-Pants-Linen/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Pants",
+      "priceAmount": "$152.95",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Fleece Sweatshorts Linen",
-      "ProductSize": "S",
+      "productSize": "S",
       "productUrl": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-fleece-sweatshorts-linen?size=S",
       "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Fleece-Sweatshorts-Linen/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Fleece-Sweatshorts-Linen/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shorts",
+      "priceAmount": "$120.75",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Fleece Sweatshorts Linen",
-      "ProductSize": "M",
+      "productSize": "M",
       "productUrl": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-fleece-sweatshorts-linen?size=M",
       "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Fleece-Sweatshorts-Linen/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Fleece-Sweatshorts-Linen/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shorts",
+      "priceAmount": "$120.75",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Fleece Sweatshorts Linen",
-      "ProductSize": "M",
+      "productSize": "M",
       "productUrl": "https://stockx.com/fear-of-god-essentials-ssense-exclusive-fleece-sweatshorts-linen?size=M",
       "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-Ssense-Exclusive-Fleece-Sweatshorts-Linen/Images/Fear-Of-God-Essentials-Ssense-Exclusive-Fleece-Sweatshorts-Linen/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shorts",
+      "priceAmount": "$120.75",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Hoodie Blue Raglan",
-      "ProductSize": "M",
+      "productSize": "M",
       "productUrl": "https://stockx.com/fear-of-god-essentials-hoodie-sycamore?size=M",
       "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-Hoodie-Sycamore/Images/Fear-Of-God-Essentials-Hoodie-Sycamore/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Hoodies & Crewnecks",
+      "priceAmount": "$161.00",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Sweatshirt Blue Raglan",
-      "ProductSize": "S",
+      "productSize": "S",
       "productUrl": "https://www.goat.com/en-ca/apparel/fear-of-god-essentials-crewneck-sweatshirt-sycamore-192bt222041f?sizing=xs&utm_source=google_ads&utm_medium=cpc&utm_campaign=20931649905&utm_content=&gad_source=1&gbraid=0AAAAADQ3c8iGXUFbcmdiabT2H84WTs4tJ&gclid=Cj0KCQjwwae1BhC_ARIsAK4JfrxoFvDQkSB08fYEd0IpV8rCcXMY2-wXqYAU4L8E6lts_C2JgFk9ljsaAhTCEALw_wcB",
       "imageUrl": "https://images.stockx.com/360/en-ca/Images/en-ca/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Hoodies & Crewnecks",
+      "priceAmount": "$144.55",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Sweatshirt Blue Raglan",
-      "ProductSize": "M",
+      "productSize": "M",
       "productUrl": "https://www.goat.com/en-ca/apparel/fear-of-god-essentials-crewneck-sweatshirt-sycamore-192bt222041f?sizing=xs&utm_source=google_ads&utm_medium=cpc&utm_campaign=20931649905&utm_content=&gad_source=1&gbraid=0AAAAADQ3c8iGXUFbcmdiabT2H84WTs4tJ&gclid=Cj0KCQjwwae1BhC_ARIsAK4JfrxoFvDQkSB08fYEd0IpV8rCcXMY2-wXqYAU4L8E6lts_C2JgFk9ljsaAhTCEALw_wcB",
       "imageUrl": "https://images.stockx.com/360/en-ca/Images/en-ca/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Hoodies & Crewnecks",
+      "priceAmount": "$144.55",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Sweatshirt Blue Raglan",
-      "ProductSize": "M",
+      "productSize": "M",
       "productUrl": "https://www.goat.com/en-ca/apparel/fear-of-god-essentials-crewneck-sweatshirt-sycamore-192bt222041f?sizing=xs&utm_source=google_ads&utm_medium=cpc&utm_campaign=20931649905&utm_content=&gad_source=1&gbraid=0AAAAADQ3c8iGXUFbcmdiabT2H84WTs4tJ&gclid=Cj0KCQjwwae1BhC_ARIsAK4JfrxoFvDQkSB08fYEd0IpV8rCcXMY2-wXqYAU4L8E6lts_C2JgFk9ljsaAhTCEALw_wcB",
       "imageUrl": "https://images.stockx.com/360/en-ca/Images/en-ca/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Hoodies & Crewnecks",
+      "priceAmount": "$144.55",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Sweatshort Sycamore",
-      "ProductSize": "M",
+      "productSize": "M",
       "productUrl": "https://stockx.com/fear-of-god-essentials-sweatshort-sycamore?size=M",
       "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-Sweatshort-Sycamore/Images/Fear-Of-God-Essentials-Sweatshort-Sycamore/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shorts",
+      "priceAmount": "$120.75",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Sweatshort Sycamore",
-      "ProductSize": "M",
+      "productSize": "M",
       "productUrl": "https://stockx.com/fear-of-god-essentials-sweatshort-sycamore?size=M",
       "imageUrl": "https://images.stockx.com/360/Fear-Of-God-Essentials-Sweatshort-Sycamore/Images/Fear-Of-God-Essentials-Sweatshort-Sycamore/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shorts",
+      "priceAmount": "$120.75",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Sweatshirt Gray Raglan",
-      "ProductSize": "S",
+      "productSize": "S",
       "productUrl": "https://www.ssense.com/en-ca/men/product/essentials/gray-raglan-sweatshirt/11337971?gad_source=1&gbraid=0AAAAAD9ouUuH7kH75chjCqjPSzfm5zVcL&gclid=Cj0KCQjwwae1BhC_ARIsAK4JfrwfNnDhT_cwE9OX2od0ZTWHHRvxNSX7UCgSpP3OjS1aUxUcFCkQiq0aAvDFEALw_wcB",
       "imageUrl": "https://images.stockx.com/360/en-ca/Images/en-ca/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Hoodies & Crewnecks",
+      "priceAmount": "$225.40",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Sweatshirt Gray Raglan",
-      "ProductSize": "S",
+      "productSize": "S",
       "productUrl": "https://www.ssense.com/en-ca/men/product/essentials/gray-raglan-sweatshirt/11337971?gad_source=1&gbraid=0AAAAAD9ouUuH7kH75chjCqjPSzfm5zVcL&gclid=Cj0KCQjwwae1BhC_ARIsAK4JfrwfNnDhT_cwE9OX2od0ZTWHHRvxNSX7UCgSpP3OjS1aUxUcFCkQiq0aAvDFEALw_wcB",
       "imageUrl": "https://images.stockx.com/360/en-ca/Images/en-ca/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Hoodies & Crewnecks",
+      "priceAmount": "$225.40",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Sweatshirt Gray Raglan",
-      "ProductSize": "S",
+      "productSize": "S",
       "productUrl": "https://www.ssense.com/en-ca/men/product/essentials/gray-raglan-sweatshirt/11337971?gad_source=1&gbraid=0AAAAAD9ouUuH7kH75chjCqjPSzfm5zVcL&gclid=Cj0KCQjwwae1BhC_ARIsAK4JfrwfNnDhT_cwE9OX2od0ZTWHHRvxNSX7UCgSpP3OjS1aUxUcFCkQiq0aAvDFEALw_wcB",
       "imageUrl": "https://images.stockx.com/360/en-ca/Images/en-ca/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Hoodies & Crewnecks",
+      "priceAmount": "$225.40",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Sweatshirt Gray Raglan",
-      "ProductSize": "M",
+      "productSize": "M",
       "productUrl": "https://www.ssense.com/en-ca/men/product/essentials/gray-raglan-sweatshirt/11337971?gad_source=1&gbraid=0AAAAAD9ouUuH7kH75chjCqjPSzfm5zVcL&gclid=Cj0KCQjwwae1BhC_ARIsAK4JfrwfNnDhT_cwE9OX2od0ZTWHHRvxNSX7UCgSpP3OjS1aUxUcFCkQiq0aAvDFEALw_wcB",
       "imageUrl": "https://images.stockx.com/360/en-ca/Images/en-ca/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Hoodies & Crewnecks",
+      "priceAmount": "$225.40",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Sweatshirt Gray Raglan",
-      "ProductSize": "M",
+      "productSize": "M",
       "productUrl": "https://www.ssense.com/en-ca/men/product/essentials/gray-raglan-sweatshirt/11337971?gad_source=1&gbraid=0AAAAAD9ouUuH7kH75chjCqjPSzfm5zVcL&gclid=Cj0KCQjwwae1BhC_ARIsAK4JfrwfNnDhT_cwE9OX2od0ZTWHHRvxNSX7UCgSpP3OjS1aUxUcFCkQiq0aAvDFEALw_wcB",
       "imageUrl": "https://images.stockx.com/360/en-ca/Images/en-ca/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Hoodies & Crewnecks",
+      "priceAmount": "$225.40",
       "ImageLinkWorks": false
     },
     {
       "name": " Fear of God Essentials Drawstring Sweatpants Gray",
-      "ProductSize": "S",
+      "productSize": "S",
       "productUrl": "https://www.ssense.com/en-ca/men/product/essentials/gray-drawstring-sweatpants/14617191?gad_source=1&gbraid=0AAAAAD9ouUuH7kH75chjCqjPSzfm5zVcL&gclid=Cj0KCQjwwae1BhC_ARIsAK4JfrzZrCvQP-8ACjw9qlRvbLung8mDvXjz_RLGHkczOWOMerIq3beFH78aAptuEALw_wcB",
       "imageUrl": "https://images.stockx.com/360/en-ca/Images/en-ca/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Pants",
+      "priceAmount": "$217.35",
       "ImageLinkWorks": false
     },
     {
       "name": " Fear of God Essentials Drawstring Sweatpants Gray",
-      "ProductSize": "M",
+      "productSize": "M",
       "productUrl": "https://www.ssense.com/en-ca/men/product/essentials/gray-drawstring-sweatpants/14617191?gad_source=1&gbraid=0AAAAAD9ouUuH7kH75chjCqjPSzfm5zVcL&gclid=Cj0KCQjwwae1BhC_ARIsAK4JfrzZrCvQP-8ACjw9qlRvbLung8mDvXjz_RLGHkczOWOMerIq3beFH78aAptuEALw_wcB",
       "imageUrl": "https://images.stockx.com/360/en-ca/Images/en-ca/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Pants",
+      "priceAmount": "$217.35",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Drawstring Shorts Gray",
-      "ProductSize": "S",
+      "productSize": "S",
       "productUrl": "https://www.ssense.com/en-ca/men/product/essentials/gray-drawstring-shorts/15440761?gad_source=1&gbraid=0AAAAAD9ouUuH7kH75chjCqjPSzfm5zVcL&gclid=Cj0KCQjwwae1BhC_ARIsAK4JfryKLaxv0zyqTLYd4OElXjae4j3nxp2YqSaN2E3RTl4cjrBEqnRZW6UaAqZMEALw_wcB",
       "imageUrl": "https://images.stockx.com/360/en-ca/Images/en-ca/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shorts",
+      "priceAmount": "$169.05",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Drawstring Shorts Gray",
-      "ProductSize": "S",
+      "productSize": "S",
       "productUrl": "https://www.ssense.com/en-ca/men/product/essentials/gray-drawstring-shorts/15440761?gad_source=1&gbraid=0AAAAAD9ouUuH7kH75chjCqjPSzfm5zVcL&gclid=Cj0KCQjwwae1BhC_ARIsAK4JfryKLaxv0zyqTLYd4OElXjae4j3nxp2YqSaN2E3RTl4cjrBEqnRZW6UaAqZMEALw_wcB",
       "imageUrl": "https://images.stockx.com/360/en-ca/Images/en-ca/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shorts",
+      "priceAmount": "$169.05",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Drawstring Shorts Gray",
-      "ProductSize": "M",
+      "productSize": "M",
       "productUrl": "https://www.ssense.com/en-ca/men/product/essentials/gray-drawstring-shorts/15440761?gad_source=1&gbraid=0AAAAAD9ouUuH7kH75chjCqjPSzfm5zVcL&gclid=Cj0KCQjwwae1BhC_ARIsAK4JfryKLaxv0zyqTLYd4OElXjae4j3nxp2YqSaN2E3RTl4cjrBEqnRZW6UaAqZMEALw_wcB",
       "imageUrl": "https://images.stockx.com/360/en-ca/Images/en-ca/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shorts",
+      "priceAmount": "$169.05",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Drawstring Shorts Gray",
-      "ProductSize": "M",
+      "productSize": "M",
       "productUrl": "https://www.ssense.com/en-ca/men/product/essentials/gray-drawstring-shorts/15440761?gad_source=1&gbraid=0AAAAAD9ouUuH7kH75chjCqjPSzfm5zVcL&gclid=Cj0KCQjwwae1BhC_ARIsAK4JfryKLaxv0zyqTLYd4OElXjae4j3nxp2YqSaN2E3RTl4cjrBEqnRZW6UaAqZMEALw_wcB",
       "imageUrl": "https://images.stockx.com/360/en-ca/Images/en-ca/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shorts",
+      "priceAmount": "$169.05",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Sweatshirt Purple Raglan",
-      "ProductSize": "S",
+      "productSize": "S",
       "productUrl": "https://www.goat.com/en-ca/apparel/fear-of-god-essentials-crewneck-sweatshirt-plum-192bt222045f?sizing=l&utm_source=google_ads&utm_medium=cpc&utm_campaign=20931649905&utm_content=&gad_source=1&gbraid=0AAAAADQ3c8iGXUFbcmdiabT2H84WTs4tJ&gclid=Cj0KCQjwwae1BhC_ARIsAK4JfrzkOJybkoYc5uPPXoqXts5iLHYoZba0NF2DDFCUucZ7r0roBw18364aAh9-EALw_wcB",
       "imageUrl": "https://images.stockx.com/360/en-ca/Images/en-ca/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Hoodies & Crewnecks",
+      "priceAmount": "$144.90",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Fleece Lounge Pants Pistachio",
-      "ProductSize": "L",
+      "productSize": "L",
       "productUrl": "https://www.goat.com/en-ca/apparel/fear-of-god-essentials-sweatpant-pistachio-130su212000f?sizing=m&utm_source=google_ads&utm_medium=cpc&utm_campaign=20931649905&utm_content=&gad_source=1&gbraid=0AAAAADQ3c8iGXUFbcmdiabT2H84WTs4tJ&gclid=Cj0KCQjwwae1BhC_ARIsAK4Jfryyn2BfZgASIrmitwWFNoAGq9NKkHaiyu0XD5Ai_CIyR4ArTbiGV9QaAib_EALw_wcB",
       "imageUrl": "https://images.stockx.com/360/en-ca/Images/en-ca/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Pants",
+      "priceAmount": "$152.95",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Lounge Pants Harvest",
-      "ProductSize": "M",
+      "productSize": "M",
       "productUrl": "",
       "imageUrl": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Pants",
+      "priceAmount": "$152.95",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Lounge Pants Harvest",
-      "ProductSize": "L",
+      "productSize": "L",
       "productUrl": "",
       "imageUrl": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Pants",
+      "priceAmount": "$152.95",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Track Lounge Pants Beige",
-      "ProductSize": "M",
+      "productSize": "M",
       "productUrl": "",
       "imageUrl": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Pants",
+      "priceAmount": "$217.35",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Track Lounge Pants Beige",
-      "ProductSize": "M",
+      "productSize": "M",
       "productUrl": "",
       "imageUrl": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Pants",
+      "priceAmount": "$217.35",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Track Lounge Pants Beige",
-      "ProductSize": "L",
+      "productSize": "L",
       "productUrl": "",
       "imageUrl": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Pants",
+      "priceAmount": "$217.35",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Volley Shorts Beige",
-      "ProductSize": "S",
+      "productSize": "S",
       "productUrl": "",
       "imageUrl": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shorts",
+      "priceAmount": "$112.70",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Volley Shorts Beige",
-      "ProductSize": "M",
+      "productSize": "M",
       "productUrl": "",
       "imageUrl": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shorts",
+      "priceAmount": "$112.70",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Volley Shorts Beige",
-      "ProductSize": "M",
+      "productSize": "M",
       "productUrl": "",
       "imageUrl": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shorts",
+      "priceAmount": "$112.70",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Volley Shorts Beige",
-      "ProductSize": "L",
+      "productSize": "L",
       "productUrl": "",
       "imageUrl": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shorts",
+      "priceAmount": "$112.70",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Half-Zip Track Jacket Beige",
-      "ProductSize": "S",
+      "productSize": "S",
       "productUrl": "",
       "imageUrl": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Jackets",
+      "priceAmount": "$217.35",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Half-Zip Track Jacket Beige",
-      "ProductSize": "M",
+      "productSize": "M",
       "productUrl": "",
       "imageUrl": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Jackets",
+      "priceAmount": "$217.35",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Half-Zip Track Jacket Beige",
-      "ProductSize": "M",
+      "productSize": "M",
       "productUrl": "",
       "imageUrl": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Jackets",
+      "priceAmount": "$217.35",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Half-Zip Track Jacket Beige",
-      "ProductSize": "L",
+      "productSize": "L",
       "productUrl": "",
       "imageUrl": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Jackets",
+      "priceAmount": "$217.35",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Track Lounge Pants Green",
-      "ProductSize": "S",
+      "productSize": "S",
       "productUrl": "",
       "imageUrl": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Pants",
+      "priceAmount": "$217.35",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Track Lounge Pants Green",
-      "ProductSize": "M",
+      "productSize": "M",
       "productUrl": "",
       "imageUrl": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Pants",
+      "priceAmount": "$217.35",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Track Lounge Pants Green",
-      "ProductSize": "M",
+      "productSize": "M",
       "productUrl": "",
       "imageUrl": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Pants",
+      "priceAmount": "$217.35",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Track Lounge Pants Green",
-      "ProductSize": "L",
+      "productSize": "L",
       "productUrl": "",
       "imageUrl": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Pants",
+      "priceAmount": "$217.35",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Volley Shorts Green",
-      "ProductSize": "S",
+      "productSize": "S",
       "productUrl": "",
       "imageUrl": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shorts",
+      "priceAmount": "$112.70",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Volley Shorts Green",
-      "ProductSize": "M",
+      "productSize": "M",
       "productUrl": "",
       "imageUrl": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shorts",
+      "priceAmount": "$112.70",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Volley Shorts Green",
-      "ProductSize": "M",
+      "productSize": "M",
       "productUrl": "",
       "imageUrl": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shorts",
+      "priceAmount": "$112.70",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Volley Shorts Green",
-      "ProductSize": "L",
+      "productSize": "L",
       "productUrl": "",
       "imageUrl": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Shorts",
+      "priceAmount": "$217.35",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Half-Zip Track Jacket Green",
-      "ProductSize": "S",
+      "productSize": "S",
       "productUrl": "",
       "imageUrl": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Jackets",
+      "priceAmount": "$217.35",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Half-Zip Track Jacket Green",
-      "ProductSize": "M",
+      "productSize": "M",
       "productUrl": "",
       "imageUrl": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Jackets",
+      "priceAmount": "$217.35",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Half-Zip Track Jacket Green",
-      "ProductSize": "M",
+      "productSize": "M",
       "productUrl": "",
       "imageUrl": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Jackets",
+      "priceAmount": "$217.35",
       "ImageLinkWorks": false
     },
     {
       "name": "Fear of God Essentials Half-Zip Track Jacket Green",
-      "ProductSize": "L",
+      "productSize": "L",
       "productUrl": "",
       "imageUrl": "https://images.stockx.com/360//Images//Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=",
+      "categories": "Jackets",
+      "priceAmount": "$217.35",
       "ImageLinkWorks": false
     }
   ]

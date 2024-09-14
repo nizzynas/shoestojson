@@ -35,9 +35,11 @@ class Program
             {
                 string column1Value = worksheet.Cells[row, 1].Text; // First column
                 string column2Value = worksheet.Cells[row, 2].Text; // Second column
+                string column3Value = worksheet.Cells[row, 3].Text; // Third column
                 string hyperlink = worksheet.Cells[row, 1].Hyperlink?.AbsoluteUri ?? string.Empty; // Extract hyperlink if available
-                
-        
+                string categorySetter = "";
+
+
 
                 if (!string.IsNullOrWhiteSpace(column1Value) && string.IsNullOrWhiteSpace(column2Value))
                 {
@@ -46,10 +48,36 @@ class Program
                     // Initialize the list for new brand if it does not exist
                     if (!brandGroupedStockItems.ContainsKey(currentBrand))
                     {
-                        brandGroupedStockItems[currentBrand] = new List<StockItem> ();
+                        brandGroupedStockItems[currentBrand] = new List<StockItem>();
                     }
                     continue;
                 }
+
+                if (column1Value.Contains("Jordan ") || column1Value.Contains("Nike") || column1Value.Contains("Yeezy ") || column1Value.Contains("YEEZY"))
+                {
+                    categorySetter = "Shoes";
+                }
+                else if (column1Value.Contains("Hoodie") || column1Value.Contains("Crewneck") || column1Value.Contains("Mock") || column1Value.Contains("Sweatshirt"))
+                {
+                    categorySetter = "Hoodies & Crewnecks";
+                }
+                else if (column1Value.Contains("Shirt") || column1Value.Contains("Top") || column1Value.Contains("Polo") || column1Value.Contains("T-shirt"))
+                {
+                    categorySetter = "Shirts";
+                }
+                else if (column1Value.Contains("Jacket"))
+                {
+                    categorySetter = "Jackets";
+                }
+                else if (column1Value.Contains("Sweatpants") || column1Value.Contains("Leggings") || column1Value.Contains("Pants"))
+                {
+                    categorySetter = "Pants";
+                }
+                else if (column1Value.Contains("Shorts") || column1Value.Contains("Sweatshorts") || column1Value.Contains("Sweatshort"))
+                {
+                    categorySetter = "Shorts";
+                }
+             
 
 
                 // Only continue if at least one of the first two columns is not empty
@@ -77,10 +105,13 @@ class Program
                     StockItem stockItem = new StockItem
                     {
                         name = column1Value,
-                        ProductSize = column2Value,
+                        productSize = column2Value,
                         productUrl = hyperlink,
                         imageUrl = shoeImageLink,
+                        categories = categorySetter,
+                        priceAmount = column3Value,
                         ImageLinkWorks = success
+
                     };
 
                     completedProduct++;
@@ -217,12 +248,23 @@ class Program
     //}
 // https://images.stockx.com/360/SHOENAME/Images/SHOENAME/Lv2/img01.jpg?auto=format%2Ccompress&w=480&dpr=1&updated_at=
 
+
+/*
+ * brand
+ * name
+ * priceAmount
+ * imageUrl
+ * productUrl
+ * categories
+ */
 public class StockItem
 {
     public string? name { get; set; }
-    public string? ProductSize { get; set; }
+    public string? productSize { get; set; }
     public string? productUrl { get; set; }
     public string? imageUrl { get; set; }
+    public string? categories { get; set; }
+    public string? priceAmount { get; set; }
     public bool? ImageLinkWorks { get; set; }
 }
 
